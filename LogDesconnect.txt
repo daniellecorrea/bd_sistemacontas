@@ -1,0 +1,1821 @@
+<isomsg direction="incoming">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/input-packager.xml] -->
+<header>6002100000</header>
+<field id="0" value="2200"/>
+<field id="3" value="003000"/>
+<field id="4" value="9862000000004000"/>
+<field id="7" value="20230317150021"/>
+<field id="11" value="000036"/>
+<field id="12" value="20230317150021"/>
+<field id="14" value="2512"/>
+<field id="22" value="040000000400000040C000000000000000000000" type="binary"/>
+<field id="23" value="0003"/>
+<field id="32" value="16"/>
+<field id="41" value="00000047"/>
+<field id="42" value="74811696000172"/>
+<isomsg id="47">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="7" value="CREDIT"/>
+</isomsg>
+<field id="55" value="820230009F2701809F26083A1F363EF932DBA39F36020027950500000080009F34034103029F3704FA033F029F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000040005F2A0209869F120A4D617374657243617264500A4D415354455243415244" type="binary"/>
+<field id="59" value="DOCK"/>
+<isomsg id="62">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="PAX                 "/>
+<field id="2" value="S9200"/>
+<field id="3" value="6N490059"/>
+<field id="4" value="1.08"/>
+<field id="5" value=" "/>
+<field id="6" value=" "/>
+<field id="7" value=" "/>
+<field id="8" value="001.48 210318   "/>
+<field id="9" value=" "/>
+<field id="10" value="05"/>
+<field id="11" value="invalid;;rel-gw.muxidev.com;8021"/>
+<field id="12" value="FFB7BC0D4584610B769EA45CD24A9DF0"/>
+<field id="13" value="6N490059            "/>
+<field id="14" value=" "/>
+<field id="15" value="2.4.184             "/>
+<field id="16" value=" "/>
+<field id="17" value="S920203GWB-C"/>
+<field id="18" value="0M"/>
+</isomsg>
+<isomsg id="63">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="2223600000000329"/>
+<field id="2" value=" "/>
+<field id="3" value="2223600000000329=2512601079360805"/>
+<field id="4" value=" "/>
+<field id="5" value=" "/>
+<field id="6" value=" "/>
+<field id="7" value="4"/>
+<field id="8" value="4"/>
+<field id="9" value=" "/>
+<field id="10" value=" "/>
+<field id="11" value=" "/>
+<field id="12" value=" "/>
+<field id="13" value="001C2CA45781ADEC803CC1A559BBFE811DF26E8DC0D74627"/>
+<field id="14" value="16FFFF4441540001A0044E"/>
+<field id="15" value="D1C88217963669276E2D9D802C44F1C4D708D824EBEDC596F324ABF384CF746829EEA5E957310225"/>
+<field id="16" value="16FFFF4441540001A0044F"/>
+</isomsg>
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923"/>
+<isomsg id="122">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="2200"/>
+<field id="2" value="003000"/>
+<field id="3" value="20230317143127"/>
+<field id="4" value="000031"/>
+<field id="5" value="00000047"/>
+<field id="6" value="010000266496"/>
+<field id="7" value="010000266496"/>
+<field id="8" value="394090"/>
+<field id="9" value="8000"/>
+<field id="10" value="9F2701409F1012011065000F040000000000000000000000FF950500000080009B02E800"/>
+<field id="11" value="000"/>
+<field id="12" value="005"/>
+</isomsg>
+<isomsg id="125">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="1219a9c1"/>
+</isomsg>
+</isomsg>
+</receive>
+</log>
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.832 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field NETWORK_MANAGEMENT
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.833 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 118
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.833 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.3
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.833 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.4
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.833 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.5
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.834 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.1
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.834 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 52
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.834 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 53
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.834 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 120.1
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 120.2
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field CAPTURE_NSU
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.3
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.4
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.1
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.2
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.7
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:22.835 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 54.2
+DF52398EF2A14EE4A3E1007A8DD088E1 INFO  17/Mar 15:00:23.599 [PooledThread-1-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=TERMINAL_TO_GATEWAY format=ISO flow=CREDIT_AUTHORIZATION>
+<header value="6002100000">
+<field id="0" value="2200">
+<field id="3" value="003000">
+<field id="4" value="9862000000004000">
+<field id="7" value="20230317150021">
+<field id="11" value="000036">
+<field id="12" value="20230317150021">
+<field id="14" value="2512">
+<field id="22" value="040000000400000040C000000000000000000000">
+<field id="23" value="0003">
+<field id="32" value="16">
+<field id="41" value="00000047">
+<field id="42" value="74811696000172">
+<field id="47.7" value="CREDIT">
+<field id="55" value="820230009F2701809F26083A1F363EF932DBA39F36020027950500000080009F34034103029F3704FA033F029F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000040005F2A0209869F120A4D617374657243617264500A4D415354455243415244">
+<field id="59" value="DOCK">
+<field id="62.1" value="PAX                 ">
+<field id="62.2" value="S9200">
+<field id="62.3" value="6N490059">
+<field id="62.4" value="1.08">
+<field id="62.8" value="001.48 210318   ">
+<field id="62.10" value="05">
+<field id="62.11" value="invalid;;rel-gw.muxidev.com;8021">
+<field id="62.12" value="FFB7BC0D4584610B769EA45CD24A9DF0">
+<field id="62.13" value="6N490059            ">
+<field id="62.15" value="2.4.184             ">
+<field id="62.17" value="S920203GWB-C">
+<field id="62.18" value="0M">
+<field id="63.1" value="2223600000000329">
+<field id="63.3" value="2223600000000329=2512601079360805">
+<field id="63.7" value="4">
+<field id="63.8" value="4">
+<field id="63.13" value="001C2CA45781ADEC803CC1A559BBFE811DF26E8DC0D74627">
+<field id="63.14" value="16FFFF4441540001A0044E">
+<field id="63.15" value="D1C88217963669276E2D9D802C44F1C4D708D824EBEDC596F324ABF384CF746829EEA5E957310225">
+<field id="63.16" value="16FFFF4441540001A0044F">
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923">
+<field id="122.1" value="2200">
+<field id="122.2" value="003000">
+<field id="122.3" value="20230317143127">
+<field id="122.4" value="000031">
+<field id="122.5" value="00000047">
+<field id="122.6" value="010000266496">
+<field id="122.7" value="010000266496">
+<field id="122.8" value="394090">
+<field id="122.9" value="8000">
+<field id="122.10" value="9F2701409F1012011065000F040000000000000000000000FF950500000080009B02E800">
+<field id="122.11" value="000">
+<field id="122.12" value="005">
+<field id="125.1" value="1219a9c1">
+</protectedLog>
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:23.629 [PooledThread-1-running] b.c.m.m.a.util.ReflectionUtils - Failed to invoke handler method parseInstallmentType from class: br.com.muxi.muxipay.input.parser.domain.financialleg.InstallmentTypeFieldParser. Failure reason: java.lang.NullPointerException
+DF52398EF2A14EE4A3E1007A8DD088E1 DEBUG 17/Mar 15:00:23.639 [PooledThread-1-running] b.c.m.m.a.p.d.f.FinancialLegDomainParser -
+Could not parse field merchantReceipt due to error: Could not find a parser for the pair <MERCHANT_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field originalStan due to error: Failed to inject handler method's return value to the target path: [ORIGINAL_STAN]
+Could not parse field displayMessage due to error: Could not find a parser for the pair <DISPLAY_MESSAGE, CREDIT_AUTHORIZATION>
+Could not parse field slugUser due to error: Could not find a parser for the pair <SLUG_USER, CREDIT_AUTHORIZATION>
+Could not parse field authorizationCode due to error: Could not find a parser for the pair <AUTHORIZATION_CODE, CREDIT_AUTHORIZATION>
+Could not parse field cardHolderReceipt due to error: Could not find a parser for the pair <CARD_HOLDER_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field slugPaymentLink due to error: Could not find a parser for the pair <SLUG_PAYMENT_LINK, CREDIT_AUTHORIZATION>
+Could not parse field tax due to error: Could not find a parser for the pair <TAX, CREDIT_AUTHORIZATION>
+Could not parse field batchId due to error: Could not find a parser for the pair <BATCH_ID, CREDIT_AUTHORIZATION>
+Could not parse field trackingNumber due to error: Could not find a parser for the pair <TRACKING_NUMBER, CREDIT_AUTHORIZATION>
+Could not parse field responseCode due to error: Could not find a parser for the pair <RESPONSE_CODE, CREDIT_AUTHORIZATION>
+Could not parse field rrn due to error: Could not find a parser for the pair <RETRIEVAL_REFERENCE_NUMBER, CREDIT_AUTHORIZATION>
+DF52398EF2A14EE4A3E1007A8DD088E1 INFO  17/Mar 15:00:23.643 [PooledThread-1-running] b.c.m.m.p.p.d.f.r.StanFieldParser - STAN-POS: 000036 STAN-GW: 000033
+DF52398EF2A14EE4A3E1007A8DD088E1 DEBUG 17/Mar 15:00:23.664 [PooledThread-1-running] b.c.m.m.a.p.d.f.FieldDomainParser -
+Could not parse field transportData due to error: Could not find a parser for the pair <TRANSPORT_DATA, CREDIT_AUTHORIZATION>
+Could not parse field extendedTransactionType due to error: Could not find a parser for the pair <EXTENDED_TRANSACTION_TYPE, CREDIT_AUTHORIZATION>
+DF52398EF2A14EE4A3E1007A8DD088E1 INFO  17/Mar 15:00:23.666 [PooledThread-1-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=GATEWAY_TO_AUTHORIZER format=ISO flow=CREDIT_AUTHORIZATION>
+<header value="600001000242">
+<field id="0" value="1200">
+<field id="3" value="003000">
+<field id="4" value="000000004000">
+<field id="7" value="0317180021">
+<field id="11" value="000033">
+<field id="12" value="230317150021">
+<field id="22" value="A11101511346101">
+<field id="23" value="003">
+<field id="24" value="200">
+<field id="41" value="DK000017">
+<field id="42" value="000000000839173">
+<field id="1.16" value="212CHECK_OUT_ID18DK00001719BR_TAX_ID21474811696000172222TERMINAL_SERIAL_NUMBER186N490059212PanReference312116Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0044E14Data260MzAwMWQwOAAAAAAAAAAAMDAxOAAcLKRXga3sgDzBpVm7/oEd8m6NwNdGJzAw216VolatileP2peData314516Scheme213S1 3DESDUKPT13KSN220FFFF4441540001A0044F14Data284MzAwMmQwOAAAAAAAAAAAMDAyONHIgheWNmknbi2dgCxE8cTXCNgk6+3FlvMkq/OEz3RoKe6l6VcxAiUwMA==">
+<field id="49" value="986">
+<field id="55" value="FF208198820230009F2701809F26083A1F363EF932DBA39F36020027950500000080009F34034103029F3704FA033F029F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000040005F2A0209869F120A4D617374657243617264500A4D4153544552434152449F1E08364E343930303539">
+<field id="100" value="00000000004">
+</protectedLog>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:23.669 [channel-sender-muxipay-client-A-send] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:00:23 BRT 2023.668" lifespan="1ms">
+<send>
+<isomsg direction="outgoing">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/adapter-packager.xml] -->
+<header>600001000242</header>
+<field id="0" value="1200"/>
+<field id="3" value="003000"/>
+<field id="4" value="000000004000"/>
+<field id="7" value="0317180021"/>
+<field id="11" value="000033"/>
+<field id="12" value="230317150021"/>
+<field id="22" value="A11101511346101"/>
+<field id="23" value="003"/>
+<field id="24" value="200"/>
+<field id="41" value="DK000017"/>
+<field id="42" value="000000000839173"/>
+<isomsg id="48">
+<isomsg id="1">
+<field id="16" value="212CHECK_OUT_ID18DK00001719BR_TAX_ID21474811696000172222TERMINAL_SERIAL_NUMBER186N490059212PanReference312116Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0044E14Data260MzAwMWQwOAAAAAAAAAAAMDAxOAAcLKRXga3sgDzBpVm7/oEd8m6NwNdGJzAw216VolatileP2peData314516Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0044F14Data284MzAwMmQwOAAAAAAAAAAAMDAyONHIgheWNmknbi2dgCxE8cTXCNgk6+3FlvMkq/OEz3RoKe6l6VcxAiUwMA=="/>
+</isomsg>
+</isomsg>
+<field id="49" value="986"/>
+<field id="55" value="FF208198820230009F2701809F26083A1F363EF932DBA39F36020027950500000080009F34034103029F3704FA033F029F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000040005F2A0209869F120A4D617374657243617264500A4D4153544552434152449F1E08364E343930303539" type="binary"/>
+<field id="100" value="00000000004"/>
+</isomsg>
+</send>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:25.190 [channel-receiver-muxipay-client-A-receive] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:00:25 BRT 2023.190" lifespan="77163ms">
+<receive>
+<isomsg direction="incoming">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/adapter-packager.xml] -->
+<header>600002000142</header>
+<field id="0" value="1210"/>
+<field id="3" value="003000"/>
+<field id="4" value="000000004000"/>
+<field id="7" value="0317180021"/>
+<field id="11" value="000033"/>
+<field id="12" value="230317150021"/>
+<field id="14" value="2512"/>
+<field id="22" value="A11101511346101"/>
+<field id="23" value="003"/>
+<field id="37" value="010000266498"/>
+<field id="38" value="120050"/>
+<field id="39" value="000"/>
+<field id="41" value="DK000017"/>
+<field id="42" value="000000000839173"/>
+<isomsg id="48">
+<!-- br.com.muxi.muxipay.archetype.packager.extensions.NestedTaggedFieldsPackager -->
+<isomsg id="1">
+<!-- org.jpos.iso.packager.GenericSubFieldPackager -->
+<field id="2" value="11"/>
+<field id="7" value="TEFDockSr   MCCDockSink 000033000033MCCTG       "/>
+<field id="16" value="218Postilion:MetaData248214ConversionDate111222ORIGINAL_RESPONSE_CODE111214ConversionDate140316222ORIGINAL_RESPONSE_CODE1200"/>
+</isomsg>
+</isomsg>
+<field id="49" value="986"/>
+<field id="55" value="FF21108A023030910A2B59ED3EDAB313AA0000" type="binary"/>
+<field id="100" value="00000000004"/>
+<field id="123" value="Pan:             \n************0329\nAccount:CREDITO\nAmount:$40.00\n\n       APPROVED        \n\n"/>
+<field id="124" value="\n\n     Amount:$40.00     \n\n       APPROVED        "/>
+</isomsg>
+</receive>
+</log>
+DF52398EF2A14EE4A3E1007A8DD088E1 INFO  17/Mar 15:00:25.193 [PooledThread-1-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=AUTHORIZER_TO_GATEWAY format=ISO flow=CREDIT_AUTHORIZATION>
+<header value="600002000142">
+<field id="0" value="1210">
+<field id="3" value="003000">
+<field id="4" value="000000004000">
+<field id="7" value="0317180021">
+<field id="11" value="000033">
+<field id="12" value="230317150021">
+<field id="14" value="2512">
+<field id="22" value="A11101511346101">
+<field id="23" value="003">
+<field id="37" value="010000266498">
+<field id="38" value="120050">
+<field id="39" value="000">
+<field id="41" value="DK000017">
+<field id="42" value="000000000839173">
+<field id="1.2" value="11">
+<field id="1.7" value="TEFDockSr   MCCDockSink 000033000033MCCTG       ">
+<field id="1.16" value="218Postilion:MetaData248214ConversionDate111222ORIGINAL_RESPONSE_CODE111214ConversionDate140316222ORIGINAL_RESPONSE_CODE1200">
+<field id="49" value="986">
+<field id="55" value="FF21108A023030910A2B59ED3EDAB313AA0000">
+<field id="100" value="00000000004">
+<field id="123" value="Pan:             \n************0329\nAccount:CREDITO\nAmount:$40.00\n\n       APPROVED        \n\n">
+<field id="124" value="\n\n     Amount:$40.00     \n\n       APPROVED        ">
+</protectedLog>
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:25.194 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 59
+DF52398EF2A14EE4A3E1007A8DD088E1 WARN  17/Mar 15:00:25.194 [PooledThread-1-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.1.2
+DF52398EF2A14EE4A3E1007A8DD088E1 DEBUG 17/Mar 15:00:25.225 [PooledThread-1-running] b.c.m.m.a.p.d.f.FieldDomainParser -
+Could not parse field merchantReceiptRenderingMethod due to error: Could not find a parser for the pair <MERCHANT_RECEIPT_RENDERING_METHOD, CREDIT_AUTHORIZATION>
+Could not parse field merchantReceiptMessage due to error: Could not find a parser for the pair <MERCHANT_RECEIPT_MESSAGE, CREDIT_AUTHORIZATION>
+Could not parse field dynamicKeyExchangeRequired due to error: Could not find a parser for the pair <DYNAMIC_KEY_EXCHANGE_REQUIRED, CREDIT_AUTHORIZATION>
+Could not parse field customerReceiptRenderingMethod due to error: Could not find a parser for the pair <CUSTOMER_RECEIPT_RENDERING_METHOD, CREDIT_AUTHORIZATION>
+Could not parse field batchId due to error: Could not find a parser for the pair <BATCH_ID, CREDIT_AUTHORIZATION>
+Could not parse field reservedStan due to error: Could not find a parser for the pair <RESERVED_STAN, CREDIT_AUTHORIZATION>
+Could not parse field initializationRequired due to error: Could not find a parser for the pair <INITIALIZATION_REQUIRED, CREDIT_AUTHORIZATION>
+Could not parse field receiptPrintIndicator due to error: Could not find a parser for the pair <RECEIPT_PRINT_INDICATOR, CREDIT_AUTHORIZATION>
+Could not parse field customerReceiptMessage due to error: Could not find a parser for the pair <CUSTOMER_RECEIPT_MESSAGE, CREDIT_AUTHORIZATION>
+DF52398EF2A14EE4A3E1007A8DD088E1 DEBUG 17/Mar 15:00:25.240 [PooledThread-1-running] b.c.m.m.a.p.d.f.FinancialLegDomainParser -
+Could not parse field msg due to error: Could not find a parser for the pair <MSG, CREDIT_AUTHORIZATION>
+Could not parse field specVersion due to error: Could not find a parser for the pair <SPEC_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field firstDigits due to error: Could not find a parser for the pair <FIRST_DIGITS, CREDIT_AUTHORIZATION>
+Could not parse field processingDate due to error: Could not find a parser for the pair <PROCESSING_DATE, CREDIT_AUTHORIZATION>
+Could not parse field deviceStan due to error: Could not find a parser for the pair <DEVICE_STAN, CREDIT_AUTHORIZATION>
+Could not parse field salesChannel due to error: Could not find a parser for the pair <SALES_CHANNEL, CREDIT_AUTHORIZATION>
+Could not parse field installmentType due to error: Could not find a parser for the pair <INSTALLMENTS_INTEREST, CREDIT_AUTHORIZATION>
+Could not parse field productOrIssuer due to error: Could not find a parser for the pair <PRODUCT_OR_ISSUER, CREDIT_AUTHORIZATION>
+Could not parse field slugAuthorizer due to error: Could not find a parser for the pair <SLUG_AUTHORIZER, CREDIT_AUTHORIZATION>
+Could not parse field originalStan due to error: Could not find a parser for the pair <ORIGINAL_STAN, CREDIT_AUTHORIZATION>
+Could not parse field slugTerminal due to error: Could not find a parser for the pair <SLUG_TERMINAL, CREDIT_AUTHORIZATION>
+Could not parse field connectionMode due to error: Could not find a parser for the pair <CONNECTION_MODE, CREDIT_AUTHORIZATION>
+Could not parse field slugUser due to error: Could not find a parser for the pair <SLUG_USER, CREDIT_AUTHORIZATION>
+Could not parse field interest due to error: Could not find a parser for the pair <INTEREST, CREDIT_AUTHORIZATION>
+Could not parse field installments due to error: Could not find a parser for the pair <INSTALLMENTS, CREDIT_AUTHORIZATION>
+Could not parse field packagerVersion due to error: Could not find a parser for the pair <PACKAGER_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field currency due to error: Could not find a parser for the pair <CURRENCY, CREDIT_AUTHORIZATION>
+Could not parse field productType due to error: Could not find a parser for the pair <PRODUCT_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field entryMode due to error: Could not find a parser for the pair <ENTRY_MODE, CREDIT_AUTHORIZATION>
+Could not parse field applicationVersion due to error: Could not find a parser for the pair <APPLICATION_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field amount due to error: Could not find a parser for the pair <AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field method due to error: Could not find a parser for the pair <METHOD, CREDIT_AUTHORIZATION>
+Could not parse field cardHolderReceipt due to error: Could not find a parser for the pair <CARD_HOLDER_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field slugPaymentLink due to error: Could not find a parser for the pair <SLUG_PAYMENT_LINK, CREDIT_AUTHORIZATION>
+Could not parse field tax due to error: Could not find a parser for the pair <TAX, CREDIT_AUTHORIZATION>
+Could not parse field connectionDetail due to error: Could not find a parser for the pair <CONNECTION_DETAIL, CREDIT_AUTHORIZATION>
+Could not parse field cycleType due to error: Could not find a parser for the pair <CYCLE_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field muid due to error: Could not find a parser for the pair <MUID, CREDIT_AUTHORIZATION>
+Could not parse field merchantReceipt due to error: Could not find a parser for the pair <MERCHANT_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field application due to error: Could not find a parser for the pair <APPLICATION, CREDIT_AUTHORIZATION>
+Could not parse field cardholderName due to error: Could not find a parser for the pair <CARDHOLDER_NAME, CREDIT_AUTHORIZATION>
+Could not parse field lastDigits due to error: Could not find a parser for the pair <LAST_DIGITS, CREDIT_AUTHORIZATION>
+Could not parse field requestToken due to error: Could not find a parser for the pair <REQUEST_TOKEN, CREDIT_AUTHORIZATION>
+Could not parse field cashierCode due to error: Could not find a parser for the pair <CASHIER_CODE, CREDIT_AUTHORIZATION>
+Could not parse field gatewayVersion due to error: Could not find a parser for the pair <GATEWAY_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field gatewayStan due to error: Could not find a parser for the pair <GATEWAY_STAN, CREDIT_AUTHORIZATION>
+DF52398EF2A14EE4A3E1007A8DD088E1 INFO  17/Mar 15:00:25.255 [PooledThread-1-running] b.c.m.m.a.s.p.BaseLegPersistenceService - (QUEUE-Leg) Request Body: {"msg":"N/A","specVersion":"1.0","firstDigits":"222360","authorizationCode":"120050","processingDate":"2023-03-17T18:00:21Z","deviceStan":"000036","salesChannel":"POS","productOrIssuer":"MASTERCARD","slugAuthorizer":"3D76EAAB185B412B9C25A9D77A62DF2E","responseCode":"ACCEPTED","displayMessage":"TRANSACAO APROVADA","slugTerminal":"9F8E7E16A074412E8D32AC679C7A82B1","connectionMode":"WIFI","interest":"0.0","packagerVersion":"2.0.0","currency":"BRL","cycleStatus":"ACCEPTED","trackingNumber":"010000266498","productType":"CREDIT","entryMode":"CHIP_EMV","applicationVersion":"3.0.0","amount":"40.0","routeFrom":"GATEWAY","method":"CP","connectionDetail":"invalid;;rel-gw.muxidev.com;8021","transmissionDate":"2023-03-17T18:00:25Z","rrn":"010000266498","cycleType":"AUTHORIZATION","muid":"C45F367B682B5DDD5388DE9D53E57923","routeTo":"TERMINAL","application":"MUXIPAY","lastDigits":"0329","requestToken":"DF52398EF2A14EE4A3E1007A8DD088E1","gatewayVersion":"1.2.0","gatewayStan":"000033"}
+983E892DB7474EA698DA6681C60EC842 DEBUG 17/Mar 15:00:25.257 [contextTaskExecutor-1] b.c.m.m.i.p.d.d.p.DigitalReceiptDomainParser -
+Could not parse field IS_DCC due to error: Could not find a parser for the pair <IS_DCC, CREDIT_AUTHORIZATION>
+Could not parse field ORIGINAL_CAPTURE_NSU due to error: Could not find a parser for the pair <ORIGINAL_CAPTURE_NSU, CREDIT_AUTHORIZATION>
+Could not parse field ADDITIONAL_AMOUNT due to error: Could not find a parser for the pair <ADDITIONAL_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field APPLICATION_ID due to error: Could not find a parser for the pair <APPLICATION_ID, CREDIT_AUTHORIZATION>
+Could not parse field TRANSACTION_DATETIME due to error: Could not find a parser for the pair <TRANSACTION_DATETIME, CREDIT_AUTHORIZATION>
+Could not parse field CURRENCY_CONVERTED_AMOUNT due to error: Could not find a parser for the pair <CURRENCY_CONVERTED_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field CAPTURE_NSU due to error: Could not find a parser for the pair <CAPTURE_NSU, CREDIT_AUTHORIZATION>
+Could not parse field IS_SIGNATURE_VALIDATION due to error: Could not find a parser for the pair <IS_SIGNATURE_VALIDATION, CREDIT_AUTHORIZATION>
+Could not parse field IS_INSTALLMENT due to error: Could not find a parser for the pair <IS_INSTALLMENT, CREDIT_AUTHORIZATION>
+Could not parse field RECEIPT_LANGUAGE due to error: Could not find a parser for the pair <RECEIPT_LANGUAGE, CREDIT_AUTHORIZATION>
+Could not parse field CHARGEBACK_AMOUNT due to error: Could not find a parser for the pair <CHARGEBACK_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field CURRENCY_CONVERSION_RATE due to error: Could not find a parser for the pair <CURRENCY_CONVERSION_RATE, CREDIT_AUTHORIZATION>
+Could not parse field HAS_INSTALLMENT_INTEREST due to error: Could not find a parser for the pair <HAS_INSTALLMENT_INTEREST, CREDIT_AUTHORIZATION>
+Could not parse field IS_ONLINE_PIN due to error: Could not find a parser for the pair <IS_ONLINE_PIN, CREDIT_AUTHORIZATION>
+Could not parse field AMOUNT due to error: Could not find a parser for the pair <AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field AVAILABLE_BALANCE due to error: Could not find a parser for the pair <AVAILABLE_BALANCE, CREDIT_AUTHORIZATION>
+Could not parse field HAS_PIN due to error: Could not find a parser for the pair <HAS_PIN, CREDIT_AUTHORIZATION>
+Could not parse field IS_VOUCHER due to error: Could not find a parser for the pair <IS_VOUCHER, CREDIT_AUTHORIZATION>
+Could not parse field CURRENCY_CONVERSION_RATE_MARKUP due to error: Could not find a parser for the pair <CURRENCY_CONVERSION_RATE_MARKUP, CREDIT_AUTHORIZATION>
+Could not parse field TRANSACTION_TYPE_CODE due to error: Could not find a parser for the pair <TRANSACTION_TYPE_CODE, CREDIT_AUTHORIZATION>
+Could not parse field TIP_AMOUNT due to error: Could not find a parser for the pair <TIP_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field AUTHORIZER_TERMINAL_ID due to error: Could not find a parser for the pair <AUTHORIZER_TERMINAL_ID, CREDIT_AUTHORIZATION>
+Could not parse field ORIGINAL_RETRIEVAL_REFERENCE_NUMBER due to error: Could not find a parser for the pair <ORIGINAL_RETRIEVAL_REFERENCE_NUMBER,CREDIT_AUTHORIZATION>
+Could not parse field MESSAGE_TYPE due to error: Could not find a parser for the pair <MESSAGE_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field CARD_BRAND_NAME due to error: Could not find a parser for the pair <CARD_BRAND_NAME, CREDIT_AUTHORIZATION>
+Could not parse field DOCUMENT_ID_TYPE due to error: Could not find a parser for the pair <DOCUMENT_ID_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field TRANSACTION_APPROVAL_TYPE due to error: Could not find a parser for the pair <TRANSACTION_APPROVAL_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field ORIGINAL_AMOUNT due to error: Could not find a parser for the pair <ORIGINAL_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field RETRIEVAL_REFERENCE_NUMBER due to error: Could not find a parser for the pair <RETRIEVAL_REFERENCE_NUMBER, CREDIT_AUTHORIZATION>
+DF52398EF2A14EE4A3E1007A8DD088E1 INFO  17/Mar 15:00:25.469 [PooledThread-1-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=GATEWAY_TO_TERMINAL format=ISO flow=CREDIT_AUTHORIZATION>
+<field id="0" value="2210">
+<field id="3" value="003000">
+<field id="4" value="9862000000004000">
+<field id="7" value="20230317150025">
+<field id="11" value="000036">
+<field id="12" value="20230317150021">
+<field id="32" value="16">
+<field id="37" value="010000266498">
+<field id="38" value="120050">
+<field id="39.1" value="8000">
+<field id="39.2" value="00">
+<field id="41" value="00000047">
+<field id="42" value="74811696000172">
+<field id="55" value="8A023030910A2B59ED3EDAB313AA0000">
+<field id="59" value="DOCK">
+<field id="111.1" value="TRANSACAO APROVADA">
+<field id="119" value="010000266498">
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923">
+<field id="127" value="000033">
+</protectedLog>
+DF52398EF2A14EE4A3E1007A8DD088E1 DEBUG 17/Mar 15:00:25.477 [PooledThread-1-running] b.c.m.m.a.q2.logging.Q2Logger - channel/177.12.182.45:22560
+<log realm="channel/177.12.182.45:22560" at="Fri Mar 17 15:00:25 BRT 2023.477" lifespan="1ms">
+<send>
+<isomsg direction="outgoing">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/input-packager.xml] -->
+<header>6002100000</header>
+<field id="0" value="2210"/>
+<field id="3" value="003000"/>
+<field id="4" value="9862000000004000"/>
+<field id="7" value="20230317150025"/>
+<field id="11" value="000036"/>
+<field id="12" value="20230317150021"/>
+<field id="32" value="16"/>
+<field id="37" value="010000266498"/>
+<field id="38" value="120050"/>
+<isomsg id="39">
+<field id="1" value="8000"/>
+<field id="2" value="00"/>
+</isomsg>
+<field id="41" value="00000047"/>
+<field id="42" value="74811696000172"/>
+<field id="55" value="8A023030910A2B59ED3EDAB313AA0000" type="binary"/>
+<field id="59" value="DOCK"/>
+<isomsg id="111">
+<field id="1" value="TRANSACAO APROVADA"/>
+</isomsg>
+<field id="119" value="010000266498"/>
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923"/>
+<field id="127" value="000033"/>
+</isomsg>
+</send>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:27.007 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:40445
+<log realm="muxipay-server.server.session/10.131.30.23:40445" at="Fri Mar 17 15:00:27 BRT 2023.7" lifespan="1ms">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:27.012 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:40445
+<log realm="channel/10.131.30.23:40445" at="Fri Mar 17 15:00:27 BRT 2023.12" lifespan="5ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:27.013 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:40445
+<log realm="muxipay-server.server.session/10.131.30.23:40445" at="Fri Mar 17 15:00:27 BRT 2023.13">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:27.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:41465
+<log realm="muxipay-server.server.session/10.131.10.71:41465" at="Fri Mar 17 15:00:27 BRT 2023.705">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:27.708 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:41465
+<log realm="channel/10.131.10.71:41465" at="Fri Mar 17 15:00:27 BRT 2023.708" lifespan="3ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:27.708 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:41465
+<log realm="muxipay-server.server.session/10.131.10.71:41465" at="Fri Mar 17 15:00:27 BRT 2023.708">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:37.006 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:41275
+<log realm="muxipay-server.server.session/10.131.30.23:41275" at="Fri Mar 17 15:00:37 BRT 2023.6">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:37.020 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:41275
+<log realm="channel/10.131.30.23:41275" at="Fri Mar 17 15:00:37 BRT 2023.20" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:37.020 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:41275
+<log realm="muxipay-server.server.session/10.131.30.23:41275" at="Fri Mar 17 15:00:37 BRT 2023.20">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:37.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:45764
+<log realm="muxipay-server.server.session/10.131.10.71:45764" at="Fri Mar 17 15:00:37 BRT 2023.705">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:37.715 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:45764
+<log realm="channel/10.131.10.71:45764" at="Fri Mar 17 15:00:37 BRT 2023.715" lifespan="10ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:37.715 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:45764
+<log realm="muxipay-server.server.session/10.131.10.71:45764" at="Fri Mar 17 15:00:37 BRT 2023.715">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:47.006 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:45728
+<log realm="muxipay-server.server.session/10.131.30.23:45728" at="Fri Mar 17 15:00:47 BRT 2023.6">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:47.011 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:45728
+<log realm="channel/10.131.30.23:45728" at="Fri Mar 17 15:00:47 BRT 2023.11" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:47.011 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:45728
+<log realm="muxipay-server.server.session/10.131.30.23:45728" at="Fri Mar 17 15:00:47 BRT 2023.11">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:47.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:46764
+<log realm="muxipay-server.server.session/10.131.10.71:46764" at="Fri Mar 17 15:00:47 BRT 2023.705" lifespan="1ms">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:47.707 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:46764
+<log realm="channel/10.131.10.71:46764" at="Fri Mar 17 15:00:47 BRT 2023.707" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:47.707 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:46764
+<log realm="muxipay-server.server.session/10.131.10.71:46764" at="Fri Mar 17 15:00:47 BRT 2023.707">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:57.006 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:22594
+<log realm="muxipay-server.server.session/10.131.30.23:22594" at="Fri Mar 17 15:00:57 BRT 2023.6">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:57.020 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:22594
+<log realm="channel/10.131.30.23:22594" at="Fri Mar 17 15:00:57 BRT 2023.20" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:00:57.020 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:22594
+<log realm="muxipay-server.server.session/10.131.30.23:22594" at="Fri Mar 17 15:00:57 BRT 2023.20">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:57.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:3761
+<log realm="muxipay-server.server.session/10.131.10.71:3761" at="Fri Mar 17 15:00:57 BRT 2023.704">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:57.707 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:3761
+<log realm="channel/10.131.10.71:3761" at="Fri Mar 17 15:00:57 BRT 2023.707" lifespan="3ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:00:57.707 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:3761
+<log realm="muxipay-server.server.session/10.131.10.71:3761" at="Fri Mar 17 15:00:57 BRT 2023.707">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:07.006 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:16681
+<log realm="muxipay-server.server.session/10.131.30.23:16681" at="Fri Mar 17 15:01:07 BRT 2023.6">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:07.012 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:16681
+<log realm="channel/10.131.30.23:16681" at="Fri Mar 17 15:01:07 BRT 2023.12" lifespan="5ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:07.012 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:16681
+<log realm="muxipay-server.server.session/10.131.30.23:16681" at="Fri Mar 17 15:01:07 BRT 2023.12">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:07.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:41685
+<log realm="muxipay-server.server.session/10.131.10.71:41685" at="Fri Mar 17 15:01:07 BRT 2023.704">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:07.706 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:41685
+<log realm="channel/10.131.10.71:41685" at="Fri Mar 17 15:01:07 BRT 2023.706" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:07.707 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:41685
+<log realm="muxipay-server.server.session/10.131.10.71:41685" at="Fri Mar 17 15:01:07 BRT 2023.706">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:17.005 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:27054
+<log realm="muxipay-server.server.session/10.131.30.23:27054" at="Fri Mar 17 15:01:17 BRT 2023.5">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:17.009 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:27054
+<log realm="channel/10.131.30.23:27054" at="Fri Mar 17 15:01:17 BRT 2023.9" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:17.009 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:27054
+<log realm="muxipay-server.server.session/10.131.30.23:27054" at="Fri Mar 17 15:01:17 BRT 2023.9">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:17.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:5900
+<log realm="muxipay-server.server.session/10.131.10.71:5900" at="Fri Mar 17 15:01:17 BRT 2023.704">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:17.706 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:5900
+<log realm="channel/10.131.10.71:5900" at="Fri Mar 17 15:01:17 BRT 2023.706" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:17.706 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:5900
+<log realm="muxipay-server.server.session/10.131.10.71:5900" at="Fri Mar 17 15:01:17 BRT 2023.706">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:27.005 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:23115
+<log realm="muxipay-server.server.session/10.131.30.23:23115" at="Fri Mar 17 15:01:27 BRT 2023.5">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:27.014 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:23115
+<log realm="channel/10.131.30.23:23115" at="Fri Mar 17 15:01:27 BRT 2023.14" lifespan="8ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:27.015 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:23115
+<log realm="muxipay-server.server.session/10.131.30.23:23115" at="Fri Mar 17 15:01:27 BRT 2023.14">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:27.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:19316
+<log realm="muxipay-server.server.session/10.131.10.71:19316" at="Fri Mar 17 15:01:27 BRT 2023.704">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:27.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:19316
+<log realm="channel/10.131.10.71:19316" at="Fri Mar 17 15:01:27 BRT 2023.705" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:27.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:19316
+<log realm="muxipay-server.server.session/10.131.10.71:19316" at="Fri Mar 17 15:01:27 BRT 2023.705">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:37.005 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:1608
+<log realm="muxipay-server.server.session/10.131.30.23:1608" at="Fri Mar 17 15:01:37 BRT 2023.5">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:37.033 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:1608
+<log realm="channel/10.131.30.23:1608" at="Fri Mar 17 15:01:37 BRT 2023.33" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:37.033 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:1608
+<log realm="muxipay-server.server.session/10.131.30.23:1608" at="Fri Mar 17 15:01:37 BRT 2023.33">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:37.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:64863
+<log realm="muxipay-server.server.session/10.131.10.71:64863" at="Fri Mar 17 15:01:37 BRT 2023.704">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:37.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:64863
+<log realm="channel/10.131.10.71:64863" at="Fri Mar 17 15:01:37 BRT 2023.705" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:37.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:64863
+<log realm="muxipay-server.server.session/10.131.10.71:64863" at="Fri Mar 17 15:01:37 BRT 2023.705">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:47.006 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:33186
+<log realm="muxipay-server.server.session/10.131.30.23:33186" at="Fri Mar 17 15:01:47 BRT 2023.5">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:47.012 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:33186
+<log realm="channel/10.131.30.23:33186" at="Fri Mar 17 15:01:47 BRT 2023.12" lifespan="6ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:47.013 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:33186
+<log realm="muxipay-server.server.session/10.131.30.23:33186" at="Fri Mar 17 15:01:47 BRT 2023.13">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:47.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:44830
+<log realm="muxipay-server.server.session/10.131.10.71:44830" at="Fri Mar 17 15:01:47 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:47.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:44830
+<log realm="channel/10.131.10.71:44830" at="Fri Mar 17 15:01:47 BRT 2023.705" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:47.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:44830
+<log realm="muxipay-server.server.session/10.131.10.71:44830" at="Fri Mar 17 15:01:47 BRT 2023.705">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:57.013 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:29300
+<log realm="muxipay-server.server.session/10.131.30.23:29300" at="Fri Mar 17 15:01:57 BRT 2023.13">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:57.038 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:29300
+<log realm="channel/10.131.30.23:29300" at="Fri Mar 17 15:01:57 BRT 2023.38" lifespan="9ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:01:57.039 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:29300
+<log realm="muxipay-server.server.session/10.131.30.23:29300" at="Fri Mar 17 15:01:57 BRT 2023.39">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:57.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:50315
+<log realm="muxipay-server.server.session/10.131.10.71:50315" at="Fri Mar 17 15:01:57 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:57.706 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:50315
+<log realm="channel/10.131.10.71:50315" at="Fri Mar 17 15:01:57 BRT 2023.706" lifespan="3ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:01:57.706 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:50315
+<log realm="muxipay-server.server.session/10.131.10.71:50315" at="Fri Mar 17 15:01:57 BRT 2023.706">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:05.390 [channel-receiver-muxipay-client-A-receive] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:02:05 BRT 2023.390" lifespan="100199ms">
+<receive>
+<io-timeout/>
+</receive>
+</log>
+00000000000000000000000000000000 WARN  17/Mar 15:02:05.390 [channel-receiver-muxipay-client-A-receive] b.c.m.m.a.q2.logging.Q2Logger - org.jpos.q2.iso.ChannelAdaptor
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="Fri Mar 17 15:02:05 BRT 2023.390">
+<warn>
+channel-receiver-muxipay-client-A-receive
+Read timeout
+</warn>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:07.005 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:27272
+<log realm="muxipay-server.server.session/10.131.30.23:27272" at="Fri Mar 17 15:02:07 BRT 2023.5">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:07.022 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:27272
+<log realm="channel/10.131.30.23:27272" at="Fri Mar 17 15:02:07 BRT 2023.22" lifespan="3ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:07.022 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:27272
+<log realm="muxipay-server.server.session/10.131.30.23:27272" at="Fri Mar 17 15:02:07 BRT 2023.22">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:07.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:44566
+<log realm="muxipay-server.server.session/10.131.10.71:44566" at="Fri Mar 17 15:02:07 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:07.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:44566
+<log realm="channel/10.131.10.71:44566" at="Fri Mar 17 15:02:07 BRT 2023.704" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:07.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:44566
+<log realm="muxipay-server.server.session/10.131.10.71:44566" at="Fri Mar 17 15:02:07 BRT 2023.705">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:15.508 [channel-sender-muxipay-client-A-send] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:02:15 BRT 2023.507" lifespan="114ms">
+<connect>
+10.253.1.10:52101
+</connect>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:17.012 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:16225
+<log realm="muxipay-server.server.session/10.131.30.23:16225" at="Fri Mar 17 15:02:17 BRT 2023.12">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:17.019 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:16225
+<log realm="channel/10.131.30.23:16225" at="Fri Mar 17 15:02:17 BRT 2023.19" lifespan="7ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:17.019 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:16225
+<log realm="muxipay-server.server.session/10.131.30.23:16225" at="Fri Mar 17 15:02:17 BRT 2023.19">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:17.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:52434
+<log realm="muxipay-server.server.session/10.131.10.71:52434" at="Fri Mar 17 15:02:17 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:17.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:52434
+<log realm="channel/10.131.10.71:52434" at="Fri Mar 17 15:02:17 BRT 2023.704" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:17.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:52434
+<log realm="muxipay-server.server.session/10.131.10.71:52434" at="Fri Mar 17 15:02:17 BRT 2023.704">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:27.004 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:36440
+<log realm="muxipay-server.server.session/10.131.30.23:36440" at="Fri Mar 17 15:02:27 BRT 2023.4">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:27.012 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:36440
+<log realm="channel/10.131.30.23:36440" at="Fri Mar 17 15:02:27 BRT 2023.12" lifespan="5ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:27.013 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:36440
+<log realm="muxipay-server.server.session/10.131.30.23:36440" at="Fri Mar 17 15:02:27 BRT 2023.13">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:27.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:32150
+<log realm="muxipay-server.server.session/10.131.10.71:32150" at="Fri Mar 17 15:02:27 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:27.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:32150
+<log realm="channel/10.131.10.71:32150" at="Fri Mar 17 15:02:27 BRT 2023.705" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:27.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:32150
+<log realm="muxipay-server.server.session/10.131.10.71:32150" at="Fri Mar 17 15:02:27 BRT 2023.705">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:37.007 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:32616
+<log realm="muxipay-server.server.session/10.131.30.23:32616" at="Fri Mar 17 15:02:37 BRT 2023.7">
+<session-start/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:37.019 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:32616
+<log realm="channel/10.131.30.23:32616" at="Fri Mar 17 15:02:37 BRT 2023.19" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:37.019 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:32616
+<log realm="muxipay-server.server.session/10.131.30.23:32616" at="Fri Mar 17 15:02:37 BRT 2023.19">
+<session-end/>
+</log>
+ 00000000000000000000000000000000 DEBUG 17/Mar 15:02:37.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:46391
+<log realm="muxipay-server.server.session/10.131.10.71:46391" at="Fri Mar 17 15:02:37 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:37.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:46391
+<log realm="channel/10.131.10.71:46391" at="Fri Mar 17 15:02:37 BRT 2023.704" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:37.705 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:46391
+<log realm="muxipay-server.server.session/10.131.10.71:46391" at="Fri Mar 17 15:02:37 BRT 2023.705">
+<session-end/>
+</log>
+D9809C7EA6174DC2B2DE3102D1D90C05 DEBUG 17/Mar 15:02:45.043 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/177.12.182.45:22870
+<log realm="muxipay-server.server.session/177.12.182.45:22870" at="Fri Mar 17 15:02:45 BRT 2023.43">
+<session-start/>
+</log>
+2548B6E6D31B4EEEAFFEDD8E7407D475 DEBUG 17/Mar 15:02:45.341 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/177.12.182.45:22870
+<log realm="channel/177.12.182.45:22870" at="Fri Mar 17 15:02:45 BRT 2023.341" lifespan="297ms">
+<receive>
+<isomsg direction="incoming">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/input-packager.xml] -->
+<header>6002100000</header>
+<field id="0" value="2420"/>
+<field id="3" value="003000"/>
+<field id="4" value="9862000000004000"/>
+<field id="7" value="20230317150245"/>
+<field id="11" value="000038"/>
+<field id="12" value="20230317150022"/>
+<field id="14" value="2512"/>
+<field id="22" value="040000000400000040C000000000000000000000" type="binary"/>
+<field id="23" value="0003"/>
+<field id="32" value="16"/>
+<field id="41" value="00000047"/>
+<field id="42" value="74811696000172"/>
+<isomsg id="47">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="7" value="CREDIT"/>
+</isomsg>
+<field id="59" value="DOCK"/>
+<isomsg id="63">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="2223600000000329"/>
+<field id="8" value="4"/>
+<field id="13" value="001C2CA45781ADEC803CC1A559BBFE811DF26E8DC0D74627"/>
+<field id="14" value="16FFFF4441540001A0044E"/>
+<field id="15" value="D1C88217963669276E2D9D802C44F1C4D708D824EBEDC596F324ABF384CF746829EEA5E957310225"/>
+<field id="16" value="16FFFF4441540001A0044F"/>
+</isomsg>
+<isomsg id="90">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="2200"/>
+<field id="2" value="003000"/>
+<field id="3" value="20230317150021"/>
+<field id="4" value="000036"/>
+<field id="5" value=" "/>
+<field id="6" value=" "/>
+<field id="7" value="20230317150021"/>
+<field id="8" value=" "/>
+<field id="9" value=" "/>
+</isomsg>
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923"/>
+<isomsg id="122">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="2200"/>
+<field id="2" value="003000"/>
+<field id="3" value="20230317143127"/>
+<field id="4" value="000031"/>
+<field id="5" value="00000047"/>
+<field id="6" value="010000266496"/>
+<field id="7" value="010000266496"/>
+<field id="8" value="394090"/>
+<field id="9" value="8000"/>
+<field id="10" value="9F2701409F1012011065000F040000000000000000000000FF950500000080009B02E800"/>
+<field id="11" value="000"/>
+<field id="12" value="005"/>
+</isomsg>
+</isomsg>
+</receive>
+</log>
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.342 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field NETWORK_MANAGEMENT
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 118
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.3
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.4
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.5
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.1
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.2
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.3
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.4
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.5
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.8
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.10
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.343 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.11
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.344 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.13
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.344 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.15
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.345 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.17
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.346 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 62.18
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.346 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 125.1
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.347 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.1
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.347 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 52
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.350 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 53
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.350 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 55
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.350 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.2
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.352 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.3
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.352 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.4
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.352 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.5
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.353 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.6
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.356 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.7
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.356 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.9
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.356 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.10
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.356 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.11
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.358 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.12
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.359 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 120.1
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.359 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 120.2
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.361 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field CAPTURE_NSU
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.361 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.3
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.362 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.1
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.362 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.2
+2548B6E6D31B4EEEAFFEDD8E7407D475 INFO  17/Mar 15:02:45.924 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=TERMINAL_TO_GATEWAY format=ISO flow=REVERSAL>
+<header value="6002100000">
+<field id="0" value="2420">
+<field id="3" value="003000">
+<field id="4" value="9862000000004000">
+<field id="7" value="20230317150245">
+<field id="11" value="000038">
+<field id="12" value="20230317150022">
+<field id="14" value="2512">
+<field id="22" value="040000000400000040C000000000000000000000">
+<field id="23" value="0003">
+<field id="32" value="16">
+<field id="41" value="00000047">
+<field id="42" value="74811696000172">
+<field id="47.7" value="CREDIT">
+<field id="59" value="DOCK">
+<field id="63.1" value="2223600000000329">
+<field id="63.8" value="4">
+<field id="63.13" value="001C2CA45781ADEC803CC1A559BBFE811DF26E8DC0D74627">
+<field id="63.14" value="16FFFF4441540001A0044E">
+<field id="63.15" value="D1C88217963669276E2D9D802C44F1C4D708D824EBEDC596F324ABF384CF746829EEA5E957310225">
+<field id="63.16" value="16FFFF4441540001A0044F">
+<field id="90.1" value="2200">
+<field id="90.2" value="003000">
+<field id="90.3" value="20230317150021">
+<field id="90.4" value="000036">
+<field id="90.7" value="20230317150021">
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923">
+<field id="122.1" value="2200">
+<field id="122.2" value="003000">
+<field id="122.3" value="20230317143127">
+<field id="122.4" value="000031">
+<field id="122.5" value="00000047">
+<field id="122.6" value="010000266496">
+<field id="122.7" value="010000266496">
+<field id="122.8" value="394090">
+<field id="122.9" value="8000">
+<field id="122.10" value="9F2701409F1012011065000F040000000000000000000000FF950500000080009B02E800">
+<field id="122.11" value="000">
+<field id="122.12" value="005">
+</protectedLog>
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:45.959 [PooledThread-0-running] b.c.m.m.a.util.ReflectionUtils - Failed to invoke handler method parseInstallmentType from class: br.com.muxi.muxipay.input.parser.domain.financialleg.InstallmentTypeFieldParser. Failure reason: java.lang.NullPointerException
+2548B6E6D31B4EEEAFFEDD8E7407D475 DEBUG 17/Mar 15:02:45.975 [PooledThread-0-running] b.c.m.m.a.p.d.f.FinancialLegDomainParser -
+Could not parse field merchantReceipt due to error: Could not find a parser for the pair <MERCHANT_RECEIPT, REVERSAL>
+Could not parse field displayMessage due to error: Could not find a parser for the pair <DISPLAY_MESSAGE, REVERSAL>
+Could not parse field slugUser due to error: Could not find a parser for the pair <SLUG_USER, REVERSAL>
+Could not parse field authorizationCode due to error: Could not find a parser for the pair <AUTHORIZATION_CODE, REVERSAL>
+Could not parse field cardHolderReceipt due to error: Could not find a parser for the pair <CARD_HOLDER_RECEIPT, REVERSAL>
+Could not parse field slugPaymentLink due to error: Could not find a parser for the pair <SLUG_PAYMENT_LINK, REVERSAL>
+Could not parse field tax due to error: Could not find a parser for the pair <TAX, REVERSAL>
+Could not parse field batchId due to error: Could not find a parser for the pair <BATCH_ID, REVERSAL>
+Could not parse field trackingNumber due to error: Could not find a parser for the pair <TRACKING_NUMBER, REVERSAL>
+Could not parse field responseCode due to error: Could not find a parser for the pair <RESPONSE_CODE, REVERSAL>
+Could not parse field rrn due to error: Could not find a parser for the pair <RETRIEVAL_REFERENCE_NUMBER, REVERSAL>
+2548B6E6D31B4EEEAFFEDD8E7407D475 INFO  17/Mar 15:02:45.988 [PooledThread-0-running] b.c.m.m.p.p.d.f.r.StanFieldParser - STAN-POS: 000038 STAN-GW: 000034
+2548B6E6D31B4EEEAFFEDD8E7407D475 DEBUG 17/Mar 15:02:46.035 [PooledThread-0-running] b.c.m.m.a.p.d.f.FieldDomainParser -
+Could not parse field transportData due to error: Could not find a parser for the pair <TRANSPORT_DATA, REVERSAL>
+2548B6E6D31B4EEEAFFEDD8E7407D475 INFO  17/Mar 15:02:46.038 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=GATEWAY_TO_AUTHORIZER format=ISO flow=REVERSAL>
+<header value="600001000242">
+<field id="0" value="1420">
+<field id="3" value="003000">
+<field id="4" value="000000004000">
+<field id="7" value="0317180245">
+<field id="11" value="000034">
+<field id="12" value="230317150022">
+<field id="22" value="A11101511346101">
+<field id="23" value="003">
+<field id="24" value="400">
+<field id="41" value="DK000017">
+<field id="42" value="000000000839173">
+<field id="1.16" value="212CHECK_OUT_ID18DK00001719BR_TAX_ID21474811696000172212PanReference312116Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0044E14Data260MzAwMWQwOAAAAAAAAAAAMDAxOAAcLKRXga3sgDzBpVm7/oEd8m6NwNdGJzAw216VolatileP2peData314516Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0044F14Data284MzAwMmQwOAAAAAAAAAAAMDAyONHIgheWNmknbi2dgCxE8cTXCNgk6+3FlvMkq/OEz3RoKe6l6VcxAiUwMA==">
+<field id="49" value="986">
+<field id="56" value="12000000330317180021DK000017000">
+<field id="100" value="00000000004">
+</protectedLog>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:46.039 [channel-sender-muxipay-client-A-send] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:02:46 BRT 2023.39" lifespan="1ms">
+<send>
+<isomsg direction="outgoing">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/adapter-packager.xml] -->
+<header>600001000242</header>
+<field id="0" value="1420"/>
+<field id="3" value="003000"/>
+<field id="4" value="000000004000"/>
+<field id="7" value="0317180245"/>
+<field id="11" value="000034"/>
+<field id="12" value="230317150022"/>
+<field id="22" value="A11101511346101"/>
+<field id="23" value="003"/>
+<field id="24" value="400"/>
+<field id="41" value="DK000017"/>
+<field id="42" value="000000000839173"/>
+<isomsg id="48">
+<isomsg id="1">
+<field id="16" value="212CHECK_OUT_ID18DK00001719BR_TAX_ID21474811696000172212PanReference312116Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0044E14Data260MzAwMWQwOAAAAAAAAAAAMDAxOAAcLKRXga3sgDzBpVm7/oEd8m6NwNdGJzAw216VolatileP2peData314516Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0044F14Data284MzAwMmQwOAAAAAAAAAAAMDAyONHIgheWNmknbi2dgCxE8cTXCNgk6+3FlvMkq/OEz3RoKe6l6VcxAiUwMA=="/>
+</isomsg>
+</isomsg>
+<field id="49" value="986"/>
+<field id="56" value="12000000330317180021DK000017000"/>
+<field id="100" value="00000000004"/>
+</isomsg>
+</send>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:46.663 [channel-receiver-muxipay-client-A-receive] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:02:46 BRT 2023.663" lifespan="31154ms">
+<receive>
+<isomsg direction="incoming">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/adapter-packager.xml] -->
+<header>600002000142</header>
+<field id="0" value="1430"/>
+<field id="3" value="003000"/>
+<field id="4" value="000000004000"/>
+<field id="7" value="0317180245"/>
+<field id="11" value="000034"/>
+<field id="12" value="230317150021"/>
+<field id="14" value="2512"/>
+<field id="22" value="A11101511346101"/>
+<field id="23" value="003"/>
+<field id="37" value="010000266498"/>
+<field id="38" value="120050"/>
+<field id="39" value="000"/>
+<field id="41" value="DK000017"/>
+<field id="42" value="000000000839173"/>
+<isomsg id="48">
+<!-- br.com.muxi.muxipay.archetype.packager.extensions.NestedTaggedFieldsPackager -->
+<isomsg id="1">
+<!-- org.jpos.iso.packager.GenericSubFieldPackager -->
+<field id="7" value="TEFDockSr   MCCDockSink 000034000034MCCTG       "/>
+</isomsg>
+</isomsg>
+<field id="49" value="986"/>
+<field id="123" value="Pan:             \n************0329\nAccount:CREDITO\nAmount:$0.00\n\n       APPROVED        \n\n"/>
+<field id="124" value="\n\n     Amount:$0.00      \n\n       APPROVED        "/>
+</isomsg>
+</receive>
+</log>
+2548B6E6D31B4EEEAFFEDD8E7407D475 INFO  17/Mar 15:02:46.665 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=AUTHORIZER_TO_GATEWAY format=ISO flow=REVERSAL>
+<header value="600002000142">
+<field id="0" value="1430">
+<field id="3" value="003000">
+<field id="4" value="000000004000">
+<field id="7" value="0317180245">
+<field id="11" value="000034">
+<field id="12" value="230317150021">
+<field id="14" value="2512">
+<field id="22" value="A11101511346101">
+<field id="23" value="003">
+<field id="37" value="010000266498">
+<field id="38" value="120050">
+<field id="39" value="000">
+<field id="41" value="DK000017">
+<field id="42" value="000000000839173">
+<field id="1.7" value="TEFDockSr   MCCDockSink 000034000034MCCTG       ">
+<field id="49" value="986">
+<field id="123" value="Pan:             \n************0329\nAccount:CREDITO\nAmount:$0.00\n\n       APPROVED        \n\n">
+<field id="124" value="\n\n     Amount:$0.00      \n\n       APPROVED        ">
+</protectedLog>
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:46.665 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.1.16
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:46.665 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 55
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:46.665 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 59
+2548B6E6D31B4EEEAFFEDD8E7407D475 WARN  17/Mar 15:02:46.666 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.1.2
+2548B6E6D31B4EEEAFFEDD8E7407D475 DEBUG 17/Mar 15:02:46.695 [PooledThread-0-running] b.c.m.m.a.p.d.f.FieldDomainParser -
+Could not parse field merchantReceiptRenderingMethod due to error: Could not find a parser for the pair <MERCHANT_RECEIPT_RENDERING_METHOD, REVERSAL>
+Could not parse field merchantReceiptMessage due to error: Could not find a parser for the pair <MERCHANT_RECEIPT_MESSAGE, REVERSAL>
+Could not parse field dynamicKeyExchangeRequired due to error: Could not find a parser for the pair <DYNAMIC_KEY_EXCHANGE_REQUIRED, REVERSAL>
+Could not parse field customerReceiptRenderingMethod due to error: Could not find a parser for the pair <CUSTOMER_RECEIPT_RENDERING_METHOD, REVERSAL>
+Could not parse field batchId due to error: Could not find a parser for the pair <BATCH_ID, REVERSAL>
+Could not parse field reservedStan due to error: Could not find a parser for the pair <RESERVED_STAN, REVERSAL>
+Could not parse field initializationRequired due to error: Could not find a parser for the pair <INITIALIZATION_REQUIRED, REVERSAL>
+Could not parse field receiptPrintIndicator due to error: Could not find a parser for the pair <RECEIPT_PRINT_INDICATOR, REVERSAL>
+Could not parse field customerReceiptMessage due to error: Could not find a parser for the pair <CUSTOMER_RECEIPT_MESSAGE, REVERSAL>
+2548B6E6D31B4EEEAFFEDD8E7407D475 DEBUG 17/Mar 15:02:46.698 [PooledThread-0-running] b.c.m.m.a.p.d.f.FinancialLegDomainParser -
+Could not parse field msg due to error: Could not find a parser for the pair <MSG, REVERSAL>
+Could not parse field specVersion due to error: Could not find a parser for the pair <SPEC_VERSION, REVERSAL>
+Could not parse field firstDigits due to error: Could not find a parser for the pair <FIRST_DIGITS, REVERSAL>
+Could not parse field processingDate due to error: Could not find a parser for the pair <PROCESSING_DATE, REVERSAL>
+Could not parse field deviceStan due to error: Could not find a parser for the pair <DEVICE_STAN, REVERSAL>
+Could not parse field salesChannel due to error: Could not find a parser for the pair <SALES_CHANNEL, REVERSAL>
+Could not parse field installmentType due to error: Could not find a parser for the pair <INSTALLMENTS_INTEREST, REVERSAL>
+Could not parse field productOrIssuer due to error: Could not find a parser for the pair <PRODUCT_OR_ISSUER, REVERSAL>
+Could not parse field slugAuthorizer due to error: Could not find a parser for the pair <SLUG_AUTHORIZER, REVERSAL>
+Could not parse field originalStan due to error: Could not find a parser for the pair <ORIGINAL_STAN, REVERSAL>
+Could not parse field slugTerminal due to error: Could not find a parser for the pair <SLUG_TERMINAL, REVERSAL>
+Could not parse field connectionMode due to error: Could not find a parser for the pair <CONNECTION_MODE, REVERSAL>
+Could not parse field slugUser due to error: Could not find a parser for the pair <SLUG_USER, REVERSAL>
+Could not parse field interest due to error: Could not find a parser for the pair <INTEREST, REVERSAL>
+Could not parse field installments due to error: Could not find a parser for the pair <INSTALLMENTS, REVERSAL>
+Could not parse field packagerVersion due to error: Could not find a parser for the pair <PACKAGER_VERSION, REVERSAL>
+Could not parse field currency due to error: Could not find a parser for the pair <CURRENCY, REVERSAL>
+Could not parse field productType due to error: Could not find a parser for the pair <PRODUCT_TYPE, REVERSAL>
+Could not parse field entryMode due to error: Could not find a parser for the pair <ENTRY_MODE, REVERSAL>
+Could not parse field applicationVersion due to error: Could not find a parser for the pair <APPLICATION_VERSION, REVERSAL>
+Could not parse field amount due to error: Could not find a parser for the pair <AMOUNT, REVERSAL>
+Could not parse field method due to error: Could not find a parser for the pair <METHOD, REVERSAL>
+Could not parse field cardHolderReceipt due to error: Could not find a parser for the pair <CARD_HOLDER_RECEIPT, REVERSAL>
+Could not parse field slugPaymentLink due to error: Could not find a parser for the pair <SLUG_PAYMENT_LINK, REVERSAL>
+Could not parse field tax due to error: Could not find a parser for the pair <TAX, REVERSAL>
+Could not parse field connectionDetail due to error: Could not find a parser for the pair <CONNECTION_DETAIL, REVERSAL>
+Could not parse field cycleType due to error: Could not find a parser for the pair <CYCLE_TYPE, REVERSAL>
+Could not parse field muid due to error: Could not find a parser for the pair <MUID, REVERSAL>
+Could not parse field merchantReceipt due to error: Could not find a parser for the pair <MERCHANT_RECEIPT, REVERSAL>
+Could not parse field application due to error: Could not find a parser for the pair <APPLICATION, REVERSAL>
+Could not parse field cardholderName due to error: Could not find a parser for the pair <CARDHOLDER_NAME, REVERSAL>
+Could not parse field lastDigits due to error: Could not find a parser for the pair <LAST_DIGITS, REVERSAL>
+Could not parse field requestToken due to error: Could not find a parser for the pair <REQUEST_TOKEN, REVERSAL>
+Could not parse field cashierCode due to error: Could not find a parser for the pair <CASHIER_CODE, REVERSAL>
+Could not parse field gatewayVersion due to error: Could not find a parser for the pair <GATEWAY_VERSION, REVERSAL>
+Could not parse field gatewayStan due to error: Could not find a parser for the pair <GATEWAY_STAN, REVERSAL>
+2548B6E6D31B4EEEAFFEDD8E7407D475 INFO  17/Mar 15:02:46.700 [PooledThread-0-running] b.c.m.m.a.s.p.BaseLegPersistenceService - (QUEUE-Leg) Request Body: {"msg":"N/A","specVersion":"1.0","authorizationCode":"120050","processingDate":"2023-03-17T18:00:22Z","deviceStan":"000038","salesChannel":"POS","productOrIssuer":"MASTERCARD","slugAuthorizer":"3D76EAAB185B412B9C25A9D77A62DF2E","responseCode":"ACCEPTED","originalStan":"000033","displayMessage":"TRANSACAO APROVADA","slugTerminal":"9F8E7E16A074412E8D32AC679C7A82B1","connectionMode":"NOT_SPECIFIED","interest":"0.0","packagerVersion":"2.0.0","currency":"BRL","cycleStatus":"ACCEPTED","trackingNumber":"010000266498","productType":"CREDIT","entryMode":"CHIP_EMV","applicationVersion":"3.0.0","amount":"40.0","routeFrom":"GATEWAY","method":"CP","transmissionDate":"2023-03-17T18:02:46Z","rrn":"010000266498","cycleType":"REVERSAL","muid":"C45F367B682B5DDD5388DE9D53E57923","routeTo":"TERMINAL","application":"MUXIPAY","requestToken":"2548B6E6D31B4EEEAFFEDD8E7407D475","gatewayVersion":"1.2.0","gatewayStan":"000034"}
+2548B6E6D31B4EEEAFFEDD8E7407D475 INFO  17/Mar 15:02:46.797 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=GATEWAY_TO_TERMINAL format=ISO flow=REVERSAL>
+<field id="0" value="2430">
+<field id="3" value="003000">
+<field id="4" value="9862000000004000">
+<field id="7" value="20230317150246">
+<field id="11" value="000038">
+<field id="12" value="20230317150022">
+<field id="32" value="16">
+<field id="37" value="010000266498">
+<field id="38" value="120050">
+<field id="39.1" value="8000">
+<field id="39.2" value="00">
+<field id="41" value="00000047">
+<field id="42" value="74811696000172">
+<field id="59" value="DOCK">
+<field id="111.1" value="TRANSACAO APROVADA">
+<field id="119" value="010000266498">
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923">
+<field id="127" value="000034">
+</protectedLog>
+2548B6E6D31B4EEEAFFEDD8E7407D475 DEBUG 17/Mar 15:02:46.808 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/177.12.182.45:22870
+<log realm="channel/177.12.182.45:22870" at="Fri Mar 17 15:02:46 BRT 2023.808" lifespan="2ms">
+<send>
+<isomsg direction="outgoing">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/input-packager.xml] -->
+<header>6002100000</header>
+<field id="0" value="2430"/>
+<field id="3" value="003000"/>
+<field id="4" value="9862000000004000"/>
+<field id="7" value="20230317150246"/>
+<field id="11" value="000038"/>
+<field id="12" value="20230317150022"/>
+<field id="32" value="16"/>
+<field id="37" value="010000266498"/>
+<field id="38" value="120050"/>
+<isomsg id="39">
+<field id="1" value="8000"/>
+<field id="2" value="00"/>
+</isomsg>
+<field id="41" value="00000047"/>
+<field id="42" value="74811696000172"/>
+<field id="59" value="DOCK"/>
+<isomsg id="111">
+<field id="1" value="TRANSACAO APROVADA"/>
+</isomsg>
+<field id="119" value="010000266498"/>
+<field id="121" value="C45F367B682B5DDD5388DE9D53E57923"/>
+<field id="127" value="000034"/>
+</isomsg>
+</send>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:47.004 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:33087
+<log realm="muxipay-server.server.session/10.131.30.23:33087" at="Fri Mar 17 15:02:47 BRT 2023.4">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:47.006 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:33087
+<log realm="channel/10.131.30.23:33087" at="Fri Mar 17 15:02:47 BRT 2023.6" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:47.006 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:33087
+<log realm="muxipay-server.server.session/10.131.30.23:33087" at="Fri Mar 17 15:02:47 BRT 2023.6">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:47.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:1777
+<log realm="muxipay-server.server.session/10.131.10.71:1777" at="Fri Mar 17 15:02:47 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:47.706 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:1777
+<log realm="channel/10.131.10.71:1777" at="Fri Mar 17 15:02:47 BRT 2023.706" lifespan="3ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:47.706 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:1777
+<log realm="muxipay-server.server.session/10.131.10.71:1777" at="Fri Mar 17 15:02:47 BRT 2023.706">
+<session-end/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:02:48.019 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/177.12.182.45:22870
+<log realm="channel/177.12.182.45:22870" at="Fri Mar 17 15:02:48 BRT 2023.18" lifespan="1210ms">
+<receive>
+<isomsg direction="incoming">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/input-packager.xml] -->
+<header>6002100000</header>
+<field id="0" value="2200"/>
+<field id="3" value="003000"/>
+<field id="4" value="9862000000005000"/>
+<field id="7" value="20230317150246"/>
+<field id="11" value="000037"/>
+<field id="12" value="20230317150246"/>
+<field id="14" value="2512"/>
+<field id="22" value="040000000400000040C000000000000000000000" type="binary"/>
+<field id="23" value="0003"/>
+<field id="32" value="16"/>
+<field id="41" value="00000047"/>
+<field id="42" value="74811696000172"/>
+<isomsg id="47">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="7" value="CREDIT"/>
+</isomsg>
+<field id="55" value="820230009F2701809F260828DF9EFDE24F6D949F36020027950500000080009F34034103029F3704D99F67FC9F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000050005F2A0209869F120A4D617374657243617264500A4D415354455243415244" type="binary"/>
+<field id="59" value="DOCK"/>
+<isomsg id="62">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="PAX                 "/>
+<field id="2" value="S9200"/>
+<field id="3" value="6N490059"/>
+<field id="4" value="1.08"/>
+<field id="5" value=" "/>
+<field id="6" value=" "/>
+<field id="7" value=" "/>
+<field id="8" value="001.48 210318   "/>
+<field id="9" value=" "/>
+<field id="10" value="05"/>
+<field id="11" value="invalid;;rel-gw.muxidev.com;8021"/>
+<field id="12" value="FFB7BC0D4584610B769EA45CD24A9DF0"/>
+<field id="13" value="6N490059            "/>
+<field id="14" value=" "/>
+<field id="15" value="2.4.184             "/>
+<field id="16" value=" "/>
+<field id="17" value="S920203GWB-C"/>
+<field id="18" value="0M"/>
+</isomsg>
+<isomsg id="63">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="2223600000000329"/>
+<field id="2" value=" "/>
+<field id="3" value="2223600000000329=2512601079360805"/>
+<field id="4" value=" "/>
+<field id="5" value=" "/>
+<field id="6" value=" "/>
+<field id="7" value="4"/>
+<field id="8" value="4"/>
+<field id="9" value=" "/>
+<field id="10" value=" "/>
+<field id="11" value=" "/>
+<field id="12" value=" "/>
+<field id="13" value="F04FE2F5E0E34A778458DC4AEE3B8C872819DDDE82BF7C91"/>
+<field id="14" value="16FFFF4441540001A00450"/>
+<field id="15" value="3912B259ADC0F1B69E33ADFEE868042398E60E0F764071A5C784CFB8EB31BF7E53181B7CBF575D8F"/>
+<field id="16" value="16FFFF4441540001A00451"/>
+</isomsg>
+<field id="121" value="D098CCFA532E180588E1DFE5007F9DE5"/>
+<isomsg id="122">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="2200"/>
+<field id="2" value="003000"/>
+<field id="3" value="20230317143127"/>
+<field id="4" value="000031"/>
+<field id="5" value="00000047"/>
+<field id="6" value="010000266496"/>
+<field id="7" value="010000266496"/>
+<field id="8" value="394090"/>
+<field id="9" value="8000"/>
+<field id="10" value="9F2701409F1012011065000F040000000000000000000000FF950500000080009B02E800"/>
+<field id="11" value="000"/>
+<field id="12" value="005"/>
+</isomsg>
+<isomsg id="125">
+<!-- org.jpos.iso.packager.GenericTaggedFieldsPackager -->
+<field id="1" value="1219a9c1"/>
+</isomsg>
+</isomsg>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.019 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field NETWORK_MANAGEMENT
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.021 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 118
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.021 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.3
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.021 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.4
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.021 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.5
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.022 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.1
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.022 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 52
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.022 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 53
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.022 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 120.1
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.022 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 120.2
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.023 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field CAPTURE_NSU
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.023 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.3
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.023 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 47.4
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.023 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.1
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.023 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.2
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.023 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 48.7
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.023 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 54.2
+58DA472117044AB9BF56DF9E5947AFD4 INFO  17/Mar 15:02:48.501 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=TERMINAL_TO_GATEWAY format=ISO flow=CREDIT_AUTHORIZATION>
+<header value="6002100000">
+<field id="0" value="2200">
+<field id="3" value="003000">
+<field id="4" value="9862000000005000">
+<field id="7" value="20230317150246">
+<field id="11" value="000037">
+<field id="12" value="20230317150246">
+<field id="14" value="2512">
+<field id="22" value="040000000400000040C000000000000000000000">
+<field id="23" value="0003">
+<field id="32" value="16">
+<field id="41" value="00000047">
+<field id="42" value="74811696000172">
+<field id="47.7" value="CREDIT">
+<field id="55" value="820230009F2701809F260828DF9EFDE24F6D949F36020027950500000080009F34034103029F3704D99F67FC9F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000050005F2A0209869F120A4D617374657243617264500A4D415354455243415244">
+<field id="59" value="DOCK">
+<field id="62.1" value="PAX                 ">
+<field id="62.2" value="S9200">
+<field id="62.3" value="6N490059">
+<field id="62.4" value="1.08">
+<field id="62.8" value="001.48 210318   ">
+<field id="62.10" value="05">
+<field id="62.11" value="invalid;;rel-gw.muxidev.com;8021">
+<field id="62.12" value="FFB7BC0D4584610B769EA45CD24A9DF0">
+<field id="62.13" value="6N490059            ">
+<field id="62.15" value="2.4.184             ">
+<field id="62.17" value="S920203GWB-C">
+<field id="62.18" value="0M">
+<field id="63.1" value="2223600000000329">
+<field id="63.3" value="2223600000000329=2512601079360805">
+<field id="63.7" value="4">
+<field id="63.8" value="4">
+<field id="63.13" value="F04FE2F5E0E34A778458DC4AEE3B8C872819DDDE82BF7C91">
+<field id="63.14" value="16FFFF4441540001A00450">
+<field id="63.15" value="3912B259ADC0F1B69E33ADFEE868042398E60E0F764071A5C784CFB8EB31BF7E53181B7CBF575D8F">
+<field id="63.16" value="16FFFF4441540001A00451">
+<field id="121" value="D098CCFA532E180588E1DFE5007F9DE5">
+<field id="122.1" value="2200">
+<field id="122.2" value="003000">
+<field id="122.3" value="20230317143127">
+<field id="122.4" value="000031">
+<field id="122.5" value="00000047">
+<field id="122.6" value="010000266496">
+<field id="122.7" value="010000266496">
+<field id="122.8" value="394090">
+<field id="122.9" value="8000">
+<field id="122.10" value="9F2701409F1012011065000F040000000000000000000000FF950500000080009B02E800">
+<field id="122.11" value="000">
+<field id="122.12" value="005">
+<field id="125.1" value="1219a9c1">
+</protectedLog>
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:48.516 [PooledThread-0-running] b.c.m.m.a.util.ReflectionUtils - Failed to invoke handler method parseInstallmentType from class: br.com.muxi.muxipay.input.parser.domain.financialleg.InstallmentTypeFieldParser. Failure reason: java.lang.NullPointerException
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:02:48.522 [PooledThread-0-running] b.c.m.m.a.p.d.f.FinancialLegDomainParser -
+Could not parse field merchantReceipt due to error: Could not find a parser for the pair <MERCHANT_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field originalStan due to error: Failed to inject handler method's return value to the target path: [ORIGINAL_STAN]
+Could not parse field displayMessage due to error: Could not find a parser for the pair <DISPLAY_MESSAGE, CREDIT_AUTHORIZATION>
+Could not parse field slugUser due to error: Could not find a parser for the pair <SLUG_USER, CREDIT_AUTHORIZATION>
+Could not parse field authorizationCode due to error: Could not find a parser for the pair <AUTHORIZATION_CODE, CREDIT_AUTHORIZATION>
+Could not parse field cardHolderReceipt due to error: Could not find a parser for the pair <CARD_HOLDER_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field slugPaymentLink due to error: Could not find a parser for the pair <SLUG_PAYMENT_LINK, CREDIT_AUTHORIZATION>
+Could not parse field tax due to error: Could not find a parser for the pair <TAX, CREDIT_AUTHORIZATION>
+Could not parse field batchId due to error: Could not find a parser for the pair <BATCH_ID, CREDIT_AUTHORIZATION>
+Could not parse field trackingNumber due to error: Could not find a parser for the pair <TRACKING_NUMBER, CREDIT_AUTHORIZATION>
+Could not parse field responseCode due to error: Could not find a parser for the pair <RESPONSE_CODE, CREDIT_AUTHORIZATION>
+Could not parse field rrn due to error: Could not find a parser for the pair <RETRIEVAL_REFERENCE_NUMBER, CREDIT_AUTHORIZATION>
+58DA472117044AB9BF56DF9E5947AFD4 INFO  17/Mar 15:02:48.526 [PooledThread-0-running] b.c.m.m.p.p.d.f.r.StanFieldParser - STAN-POS: 000037 STAN-GW: 000035
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:02:48.556 [PooledThread-0-running] b.c.m.m.a.p.d.f.FieldDomainParser -
+Could not parse field transportData due to error: Could not find a parser for the pair <TRANSPORT_DATA, CREDIT_AUTHORIZATION>
+Could not parse field extendedTransactionType due to error: Could not find a parser for the pair <EXTENDED_TRANSACTION_TYPE, CREDIT_AUTHORIZATION>
+58DA472117044AB9BF56DF9E5947AFD4 INFO  17/Mar 15:02:48.559 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=GATEWAY_TO_AUTHORIZER format=ISO flow=CREDIT_AUTHORIZATION>
+<header value="600001000242">
+<field id="0" value="1200">
+<field id="3" value="003000">
+<field id="4" value="000000005000">
+<field id="7" value="0317180246">
+<field id="11" value="000035">
+<field id="12" value="230317150246">
+<field id="22" value="A11101511346101">
+<field id="23" value="003">
+<field id="24" value="200">
+<field id="41" value="DK000017">
+<field id="42" value="000000000839173">
+<field id="1.16" value="212CHECK_OUT_ID18DK00001719BR_TAX_ID21474811696000172222TERMINAL_SERIAL_NUMBER186N490059212PanReference312116Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0045014Data260MzAwMWQwOAAAAAAAAAAAMDAxOPBP4vXg40p3hFjcSu47jIcoGd3egr98kTAw216VolatileP2peData314516Scheme213S1 3DESDUKPT13KSN220FFFF4441540001A0045114Data284MzAwMmQwOAAAAAAAAAAAMDAyODkSslmtwPG2njOt/uhoBCOY5g4PdkBxpceEz7jrMb9+UxgbfL9XXY8wMA==">
+<field id="49" value="986">
+<field id="55" value="FF208198820230009F2701809F260828DF9EFDE24F6D949F36020027950500000080009F34034103029F3704D99F67FC9F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000050005F2A0209869F120A4D617374657243617264500A4D4153544552434152449F1E08364E343930303539">
+<field id="100" value="00000000004">
+</protectedLog>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:48.560 [channel-sender-muxipay-client-A-send] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:02:48 BRT 2023.560" lifespan="1ms">
+<send>
+<isomsg direction="outgoing">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/adapter-packager.xml] -->
+<header>600001000242</header>
+<field id="0" value="1200"/>
+<field id="3" value="003000"/>
+<field id="4" value="000000005000"/>
+<field id="7" value="0317180246"/>
+<field id="11" value="000035"/>
+<field id="12" value="230317150246"/>
+<field id="22" value="A11101511346101"/>
+<field id="23" value="003"/>
+<field id="24" value="200"/>
+<field id="41" value="DK000017"/>
+<field id="42" value="000000000839173"/>
+<isomsg id="48">
+<isomsg id="1">
+<field id="16" value="212CHECK_OUT_ID18DK00001719BR_TAX_ID21474811696000172222TERMINAL_SERIAL_NUMBER186N490059212PanReference312116Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0045014Data260MzAwMWQwOAAAAAAAAAAAMDAxOPBP4vXg40p3hFjcSu47jIcoGd3egr98kTAw216VolatileP2peData314516Scheme213S1 3DES DUKPT13KSN220FFFF4441540001A0045114Data284MzAwMmQwOAAAAAAAAAAAMDAyODkSslmtwPG2njOt/uhoBCOY5g4PdkBxpceEz7jrMb9+UxgbfL9XXY8wMA=="/>
+</isomsg>
+</isomsg>
+<field id="49" value="986"/>
+<field id="55" value="FF208198820230009F2701809F260828DF9EFDE24F6D949F36020027950500000080009F34034103029F3704D99F67FC9F3303E0F0C85F280200569F10120110A5000F040000000000000000000000FF9A032303179F1A0200769F3501229C01008407A00000000410109F02060000000050005F2A0209869F120A4D617374657243617264500A4D4153544552434152449F1E08364E343930303539" type="binary"/>
+<field id="100" value="00000000004"/>
+</isomsg>
+</send>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:49.978 [channel-receiver-muxipay-client-A-receive] b.c.m.m.a.q2.logging.Q2Logger - channel/10.253.1.10:52101
+<log realm="channel/10.253.1.10:52101" at="Fri Mar 17 15:02:49 BRT 2023.978" lifespan="3315ms">
+<receive>
+<isomsg direction="incoming">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/adapter-packager.xml] -->
+<header>600002000142</header>
+<field id="0" value="1210"/>
+<field id="3" value="003000"/>
+<field id="4" value="000000005000"/>
+<field id="7" value="0317180246"/>
+<field id="11" value="000035"/>
+<field id="12" value="230317150246"/>
+<field id="14" value="2512"/>
+<field id="22" value="A11101511346101"/>
+<field id="23" value="003"/>
+<field id="37" value="010000266501"/>
+<field id="38" value="256600"/>
+<field id="39" value="000"/>
+<field id="41" value="DK000017"/>
+<field id="42" value="000000000839173"/>
+<isomsg id="48">
+<!-- br.com.muxi.muxipay.archetype.packager.extensions.NestedTaggedFieldsPackager -->
+<isomsg id="1">
+<!-- org.jpos.iso.packager.GenericSubFieldPackager -->
+<field id="2" value="11"/>
+<field id="7" value="TEFDockSr   MCCDockSink 000035000035MCCTG       "/>
+<field id="16" value="218Postilion:MetaData248214ConversionDate111222ORIGINAL_RESPONSE_CODE111214ConversionDate140316222ORIGINAL_RESPONSE_CODE1200"/>
+</isomsg>
+</isomsg>
+<field id="49" value="986"/>
+<field id="55" value="FF21108A023030910A076737BE828DACD10000" type="binary"/>
+<field id="100" value="00000000004"/>
+<field id="123" value="Pan:             \n************0329\nAccount:CREDITO\nAmount:$50.00\n\n       APPROVED        \n\n"/>
+<field id="124" value="\n\n     Amount:$50.00     \n\n       APPROVED        "/>
+</isomsg>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 INFO  17/Mar 15:02:49.979 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=AUTHORIZER_TO_GATEWAY format=ISO flow=CREDIT_AUTHORIZATION>
+<header value="600002000142">
+<field id="0" value="1210">
+<field id="3" value="003000">
+<field id="4" value="000000005000">
+<field id="7" value="0317180246">
+<field id="11" value="000035">
+<field id="12" value="230317150246">
+<field id="14" value="2512">
+<field id="22" value="A11101511346101">
+<field id="23" value="003">
+<field id="37" value="010000266501">
+<field id="38" value="256600">
+<field id="39" value="000">
+<field id="41" value="DK000017">
+<field id="42" value="000000000839173">
+<field id="1.2" value="11">
+<field id="1.7" value="TEFDockSr   MCCDockSink 000035000035MCCTG       ">
+<field id="1.16" value="218Postilion:MetaData248214ConversionDate111222ORIGINAL_RESPONSE_CODE111214ConversionDate140316222ORIGINAL_RESPONSE_CODE1200">
+<field id="49" value="986">
+<field id="55" value="FF21108A023030910A076737BE828DACD10000">
+<field id="100" value="00000000004">
+<field id="123" value="Pan:             \n************0329\nAccount:CREDITO\nAmount:$50.00\n\n       APPROVED        \n\n">
+<field id="124" value="\n\n     Amount:$50.00     \n\n       APPROVED        ">
+</protectedLog>
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:49.980 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 59
+58DA472117044AB9BF56DF9E5947AFD4 WARN  17/Mar 15:02:49.980 [PooledThread-0-running] b.c.m.m.a.p.f.iso.IsoFormatParser - Error parsing ISO message on field 63.1.2
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:02:50.007 [PooledThread-0-running] b.c.m.m.a.p.d.f.FieldDomainParser -
+Could not parse field merchantReceiptRenderingMethod due to error: Could not find a parser for the pair <MERCHANT_RECEIPT_RENDERING_METHOD, CREDIT_AUTHORIZATION>
+Could not parse field merchantReceiptMessage due to error: Could not find a parser for the pair <MERCHANT_RECEIPT_MESSAGE, CREDIT_AUTHORIZATION>
+Could not parse field dynamicKeyExchangeRequired due to error: Could not find a parser for the pair <DYNAMIC_KEY_EXCHANGE_REQUIRED, CREDIT_AUTHORIZATION>
+Could not parse field customerReceiptRenderingMethod due to error: Could not find a parser for the pair <CUSTOMER_RECEIPT_RENDERING_METHOD, CREDIT_AUTHORIZATION>
+Could not parse field batchId due to error: Could not find a parser for the pair <BATCH_ID, CREDIT_AUTHORIZATION>
+Could not parse field reservedStan due to error: Could not find a parser for the pair <RESERVED_STAN, CREDIT_AUTHORIZATION>
+Could not parse field initializationRequired due to error: Could not find a parser for the pair <INITIALIZATION_REQUIRED, CREDIT_AUTHORIZATION>
+Could not parse field receiptPrintIndicator due to error: Could not find a parser for the pair <RECEIPT_PRINT_INDICATOR, CREDIT_AUTHORIZATION>
+Could not parse field customerReceiptMessage due to error: Could not find a parser for the pair <CUSTOMER_RECEIPT_MESSAGE, CREDIT_AUTHORIZATION>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:02:50.008 [PooledThread-0-running] b.c.m.m.a.p.d.f.FinancialLegDomainParser -
+Could not parse field msg due to error: Could not find a parser for the pair <MSG, CREDIT_AUTHORIZATION>
+Could not parse field specVersion due to error: Could not find a parser for the pair <SPEC_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field firstDigits due to error: Could not find a parser for the pair <FIRST_DIGITS, CREDIT_AUTHORIZATION>
+Could not parse field processingDate due to error: Could not find a parser for the pair <PROCESSING_DATE, CREDIT_AUTHORIZATION>
+Could not parse field deviceStan due to error: Could not find a parser for the pair <DEVICE_STAN, CREDIT_AUTHORIZATION>
+Could not parse field salesChannel due to error: Could not find a parser for the pair <SALES_CHANNEL, CREDIT_AUTHORIZATION>
+Could not parse field installmentType due to error: Could not find a parser for the pair <INSTALLMENTS_INTEREST, CREDIT_AUTHORIZATION>
+Could not parse field productOrIssuer due to error: Could not find a parser for the pair <PRODUCT_OR_ISSUER, CREDIT_AUTHORIZATION>
+Could not parse field slugAuthorizer due to error: Could not find a parser for the pair <SLUG_AUTHORIZER, CREDIT_AUTHORIZATION>
+Could not parse field originalStan due to error: Could not find a parser for the pair <ORIGINAL_STAN, CREDIT_AUTHORIZATION>
+Could not parse field slugTerminal due to error: Could not find a parser for the pair <SLUG_TERMINAL, CREDIT_AUTHORIZATION>
+Could not parse field connectionMode due to error: Could not find a parser for the pair <CONNECTION_MODE, CREDIT_AUTHORIZATION>
+Could not parse field slugUser due to error: Could not find a parser for the pair <SLUG_USER, CREDIT_AUTHORIZATION>
+Could not parse field interest due to error: Could not find a parser for the pair <INTEREST, CREDIT_AUTHORIZATION>
+Could not parse field installments due to error: Could not find a parser for the pair <INSTALLMENTS, CREDIT_AUTHORIZATION>
+Could not parse field packagerVersion due to error: Could not find a parser for the pair <PACKAGER_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field currency due to error: Could not find a parser for the pair <CURRENCY, CREDIT_AUTHORIZATION>
+Could not parse field productType due to error: Could not find a parser for the pair <PRODUCT_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field entryMode due to error: Could not find a parser for the pair <ENTRY_MODE, CREDIT_AUTHORIZATION>
+Could not parse field applicationVersion due to error: Could not find a parser for the pair <APPLICATION_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field amount due to error: Could not find a parser for the pair <AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field method due to error: Could not find a parser for the pair <METHOD, CREDIT_AUTHORIZATION>
+Could not parse field cardHolderReceipt due to error: Could not find a parser for the pair <CARD_HOLDER_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field slugPaymentLink due to error: Could not find a parser for the pair <SLUG_PAYMENT_LINK, CREDIT_AUTHORIZATION>
+Could not parse field tax due to error: Could not find a parser for the pair <TAX, CREDIT_AUTHORIZATION>
+Could not parse field connectionDetail due to error: Could not find a parser for the pair <CONNECTION_DETAIL, CREDIT_AUTHORIZATION>
+Could not parse field cycleType due to error: Could not find a parser for the pair <CYCLE_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field muid due to error: Could not find a parser for the pair <MUID, CREDIT_AUTHORIZATION>
+Could not parse field merchantReceipt due to error: Could not find a parser for the pair <MERCHANT_RECEIPT, CREDIT_AUTHORIZATION>
+Could not parse field application due to error: Could not find a parser for the pair <APPLICATION, CREDIT_AUTHORIZATION>
+Could not parse field cardholderName due to error: Could not find a parser for the pair <CARDHOLDER_NAME, CREDIT_AUTHORIZATION>
+Could not parse field lastDigits due to error: Could not find a parser for the pair <LAST_DIGITS, CREDIT_AUTHORIZATION>
+Could not parse field requestToken due to error: Could not find a parser for the pair <REQUEST_TOKEN, CREDIT_AUTHORIZATION>
+Could not parse field cashierCode due to error: Could not find a parser for the pair <CASHIER_CODE, CREDIT_AUTHORIZATION>
+Could not parse field gatewayVersion due to error: Could not find a parser for the pair <GATEWAY_VERSION, CREDIT_AUTHORIZATION>
+Could not parse field gatewayStan due to error: Could not find a parser for the pair <GATEWAY_STAN, CREDIT_AUTHORIZATION>
+58DA472117044AB9BF56DF9E5947AFD4 INFO  17/Mar 15:02:50.009 [PooledThread-0-running] b.c.m.m.a.s.p.BaseLegPersistenceService - (QUEUE-Leg) Request Body: {"msg":"N/A","specVersion":"1.0","firstDigits":"222360","authorizationCode":"256600","processingDate":"2023-03-17T18:02:46Z","deviceStan":"000037","salesChannel":"POS","productOrIssuer":"MASTERCARD","slugAuthorizer":"3D76EAAB185B412B9C25A9D77A62DF2E","responseCode":"ACCEPTED","displayMessage":"TRANSACAO APROVADA","slugTerminal":"9F8E7E16A074412E8D32AC679C7A82B1","connectionMode":"WIFI","interest":"0.0","packagerVersion":"2.0.0","currency":"BRL","cycleStatus":"ACCEPTED","trackingNumber":"010000266501","productType":"CREDIT","entryMode":"CHIP_EMV","applicationVersion":"3.0.0","amount":"50.0","routeFrom":"GATEWAY","method":"CP","connectionDetail":"invalid;;rel-gw.muxidev.com;8021","transmissionDate":"2023-03-17T18:02:49Z","rrn":"010000266501","cycleType":"AUTHORIZATION","muid":"D098CCFA532E180588E1DFE5007F9DE5","routeTo":"TERMINAL","application":"MUXIPAY","lastDigits":"0329","requestToken":"58DA472117044AB9BF56DF9E5947AFD4","gatewayVersion":"1.2.0","gatewayStan":"000035"}
+1BDABA6231E348B98704FBE23EC57112 DEBUG 17/Mar 15:02:50.022 [contextTaskExecutor-1] b.c.m.m.i.p.d.d.p.DigitalReceiptDomainParser -
+Could not parse field IS_DCC due to error: Could not find a parser for the pair <IS_DCC, CREDIT_AUTHORIZATION>
+Could not parse field ORIGINAL_CAPTURE_NSU due to error: Could not find a parser for the pair <ORIGINAL_CAPTURE_NSU, CREDIT_AUTHORIZATION>
+Could not parse field ADDITIONAL_AMOUNT due to error: Could not find a parser for the pair <ADDITIONAL_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field APPLICATION_ID due to error: Could not find a parser for the pair <APPLICATION_ID, CREDIT_AUTHORIZATION>
+Could not parse field TRANSACTION_DATETIME due to error: Could not find a parser for the pair <TRANSACTION_DATETIME, CREDIT_AUTHORIZATION>
+Could not parse field CURRENCY_CONVERTED_AMOUNT due to error: Could not find a parser for the pair <CURRENCY_CONVERTED_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field CAPTURE_NSU due to error: Could not find a parser for the pair <CAPTURE_NSU, CREDIT_AUTHORIZATION>
+Could not parse field IS_SIGNATURE_VALIDATION due to error: Could not find a parser for the pair <IS_SIGNATURE_VALIDATION, CREDIT_AUTHORIZATION>
+Could not parse field IS_INSTALLMENT due to error: Could not find a parser for the pair <IS_INSTALLMENT, CREDIT_AUTHORIZATION>
+Could not parse field RECEIPT_LANGUAGE due to error: Could not find a parser for the pair <RECEIPT_LANGUAGE, CREDIT_AUTHORIZATION>
+Could not parse field CHARGEBACK_AMOUNT due to error: Could not find a parser for the pair <CHARGEBACK_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field CURRENCY_CONVERSION_RATE due to error: Could not find a parser for the pair <CURRENCY_CONVERSION_RATE, CREDIT_AUTHORIZATION>
+Could not parse field HAS_INSTALLMENT_INTEREST due to error: Could not find a parser for the pair <HAS_INSTALLMENT_INTEREST, CREDIT_AUTHORIZATION>
+Could not parse field IS_ONLINE_PIN due to error: Could not find a parser for the pair <IS_ONLINE_PIN, CREDIT_AUTHORIZATION>
+Could not parse field AMOUNT due to error: Could not find a parser for the pair <AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field AVAILABLE_BALANCE due to error: Could not find a parser for the pair <AVAILABLE_BALANCE, CREDIT_AUTHORIZATION>
+Could not parse field HAS_PIN due to error: Could not find a parser for the pair <HAS_PIN, CREDIT_AUTHORIZATION>
+Could not parse field IS_VOUCHER due to error: Could not find a parser for the pair <IS_VOUCHER, CREDIT_AUTHORIZATION>
+Could not parse field CURRENCY_CONVERSION_RATE_MARKUP due to error: Could not find a parser for the pair <CURRENCY_CONVERSION_RATE_MARKUP, CREDIT_AUTHORIZATION>
+Could not parse field TRANSACTION_TYPE_CODE due to error: Could not find a parser for the pair <TRANSACTION_TYPE_CODE, CREDIT_AUTHORIZATION>
+Could not parse field TIP_AMOUNT due to error: Could not find a parser for the pair <TIP_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field AUTHORIZER_TERMINAL_ID due to error: Could not find a parser for the pair <AUTHORIZER_TERMINAL_ID, CREDIT_AUTHORIZATION>
+Could not parse field ORIGINAL_RETRIEVAL_REFERENCE_NUMBER due to error: Could not find a parser for the pair <ORIGINAL_RETRIEVAL_REFERENCE_NUMBER,CREDIT_AUTHORIZATION>
+Could not parse field MESSAGE_TYPE due to error: Could not find a parser for the pair <MESSAGE_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field CARD_BRAND_NAME due to error: Could not find a parser for the pair <CARD_BRAND_NAME, CREDIT_AUTHORIZATION>
+Could not parse field DOCUMENT_ID_TYPE due to error: Could not find a parser for the pair <DOCUMENT_ID_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field TRANSACTION_APPROVAL_TYPE due to error: Could not find a parser for the pair <TRANSACTION_APPROVAL_TYPE, CREDIT_AUTHORIZATION>
+Could not parse field ORIGINAL_AMOUNT due to error: Could not find a parser for the pair <ORIGINAL_AMOUNT, CREDIT_AUTHORIZATION>
+Could not parse field RETRIEVAL_REFERENCE_NUMBER due to error: Could not find a parser for the pair <RETRIEVAL_REFERENCE_NUMBER, CREDIT_AUTHORIZATION>
+58DA472117044AB9BF56DF9E5947AFD4 INFO  17/Mar 15:02:50.106 [PooledThread-0-running] b.c.m.m.a.s.l.ProtectedLogService -
+<protectedLog direction=GATEWAY_TO_TERMINAL format=ISO flow=CREDIT_AUTHORIZATION>
+<field id="0" value="2210">
+<field id="3" value="003000">
+<field id="4" value="9862000000005000">
+<field id="7" value="20230317150249">
+<field id="11" value="000037">
+<field id="12" value="20230317150246">
+<field id="32" value="16">
+<field id="37" value="010000266501">
+<field id="38" value="256600">
+<field id="39.1" value="8000">
+<field id="39.2" value="00">
+<field id="41" value="00000047">
+<field id="42" value="74811696000172">
+<field id="55" value="8A023030910A076737BE828DACD10000">
+<field id="59" value="DOCK">
+<field id="111.1" value="TRANSACAO APROVADA">
+<field id="119" value="010000266501">
+<field id="121" value="D098CCFA532E180588E1DFE5007F9DE5">
+<field id="127" value="000035">
+</protectedLog>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:02:50.106 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/177.12.182.45:22870
+<log realm="channel/177.12.182.45:22870" at="Fri Mar 17 15:02:50 BRT 2023.106">
+<send>
+<isomsg direction="outgoing">
+<!-- org.jpos.iso.packager.GenericPackager[deploy/packager/input-packager.xml] -->
+<header>6002100000</header>
+<field id="0" value="2210"/>
+<field id="3" value="003000"/>
+<field id="4" value="9862000000005000"/>
+<field id="7" value="20230317150249"/>
+<field id="11" value="000037"/>
+<field id="12" value="20230317150246"/>
+<field id="32" value="16"/>
+<field id="37" value="010000266501"/>
+<field id="38" value="256600"/>
+<isomsg id="39">
+<field id="1" value="8000"/>
+<field id="2" value="00"/>
+</isomsg>
+<field id="41" value="00000047"/>
+<field id="42" value="74811696000172"/>
+<field id="55" value="8A023030910A076737BE828DACD10000" type="binary"/>
+<field id="59" value="DOCK"/>
+<isomsg id="111">
+<field id="1" value="TRANSACAO APROVADA"/>
+</isomsg>
+<field id="119" value="010000266501"/>
+<field id="121" value="D098CCFA532E180588E1DFE5007F9DE5"/>
+<field id="127" value="000035"/>
+</isomsg>
+</send>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:57.008 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:13689
+<log realm="muxipay-server.server.session/10.131.30.23:13689" at="Fri Mar 17 15:02:57 BRT 2023.8">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:57.036 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:13689
+<log realm="channel/10.131.30.23:13689" at="Fri Mar 17 15:02:57 BRT 2023.36" lifespan="20ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:57.036 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:13689
+<log realm="muxipay-server.server.session/10.131.30.23:13689" at="Fri Mar 17 15:02:57 BRT 2023.36">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:57.703 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:56364
+<log realm="muxipay-server.server.session/10.131.10.71:56364" at="Fri Mar 17 15:02:57 BRT 2023.703">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:57.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:56364
+<log realm="channel/10.131.10.71:56364" at="Fri Mar 17 15:02:57 BRT 2023.704" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:02:57.704 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:56364
+<log realm="muxipay-server.server.session/10.131.10.71:56364" at="Fri Mar 17 15:02:57 BRT 2023.704">
+<session-end/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:06.427 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/177.12.182.45:22870
+<log realm="channel/177.12.182.45:22870" at="Fri Mar 17 15:03:06 BRT 2023.427" lifespan="16321ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:06.427 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/177.12.182.45:22870
+<log realm="muxipay-server.server.session/177.12.182.45:22870" at="Fri Mar 17 15:03:06 BRT 2023.427">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:07.004 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:14150
+<log realm="muxipay-server.server.session/10.131.30.23:14150" at="Fri Mar 17 15:03:07 BRT 2023.4">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:07.013 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:14150
+<log realm="channel/10.131.30.23:14150" at="Fri Mar 17 15:03:07 BRT 2023.13" lifespan="9ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:07.013 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:14150
+<log realm="muxipay-server.server.session/10.131.30.23:14150" at="Fri Mar 17 15:03:07 BRT 2023.13">
+<session-end/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:07.703 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:14013
+<log realm="muxipay-server.server.session/10.131.10.71:14013" at="Fri Mar 17 15:03:07 BRT 2023.703">
+<session-start/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:07.705 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:14013
+<log realm="channel/10.131.10.71:14013" at="Fri Mar 17 15:03:07 BRT 2023.705" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:07.705 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:14013
+<log realm="muxipay-server.server.session/10.131.10.71:14013" at="Fri Mar 17 15:03:07 BRT 2023.705">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:17.004 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:7472
+<log realm="muxipay-server.server.session/10.131.30.23:7472" at="Fri Mar 17 15:03:17 BRT 2023.4">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:17.013 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:7472
+<log realm="channel/10.131.30.23:7472" at="Fri Mar 17 15:03:17 BRT 2023.13" lifespan="7ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:17.013 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:7472
+<log realm="muxipay-server.server.session/10.131.30.23:7472" at="Fri Mar 17 15:03:17 BRT 2023.13">
+<session-end/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:17.702 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:28644
+<log realm="muxipay-server.server.session/10.131.10.71:28644" at="Fri Mar 17 15:03:17 BRT 2023.702">
+<session-start/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:17.703 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:28644
+<log realm="channel/10.131.10.71:28644" at="Fri Mar 17 15:03:17 BRT 2023.703" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:17.703 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:28644
+<log realm="muxipay-server.server.session/10.131.10.71:28644" at="Fri Mar 17 15:03:17 BRT 2023.703">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:27.005 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:19166
+<log realm="muxipay-server.server.session/10.131.30.23:19166" at="Fri Mar 17 15:03:27 BRT 2023.5">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:27.013 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:19166
+<log realm="channel/10.131.30.23:19166" at="Fri Mar 17 15:03:27 BRT 2023.13" lifespan="8ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:27.013 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:19166
+<log realm="muxipay-server.server.session/10.131.30.23:19166" at="Fri Mar 17 15:03:27 BRT 2023.13">
+<session-end/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:27.703 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:29572
+<log realm="muxipay-server.server.session/10.131.10.71:29572" at="Fri Mar 17 15:03:27 BRT 2023.703">
+<session-start/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:27.707 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:29572
+<log realm="channel/10.131.10.71:29572" at="Fri Mar 17 15:03:27 BRT 2023.707" lifespan="4ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:27.707 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:29572
+<log realm="muxipay-server.server.session/10.131.10.71:29572" at="Fri Mar 17 15:03:27 BRT 2023.707">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:37.004 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:48252
+<log realm="muxipay-server.server.session/10.131.30.23:48252" at="Fri Mar 17 15:03:37 BRT 2023.4">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:37.018 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:48252
+<log realm="channel/10.131.30.23:48252" at="Fri Mar 17 15:03:37 BRT 2023.18" lifespan="10ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:37.018 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:48252
+<log realm="muxipay-server.server.session/10.131.30.23:48252" at="Fri Mar 17 15:03:37 BRT 2023.18">
+<session-end/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:37.703 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:52984
+<log realm="muxipay-server.server.session/10.131.10.71:52984" at="Fri Mar 17 15:03:37 BRT 2023.702">
+<session-start/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:37.705 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:52984
+<log realm="channel/10.131.10.71:52984" at="Fri Mar 17 15:03:37 BRT 2023.705" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:37.705 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:52984
+<log realm="muxipay-server.server.session/10.131.10.71:52984" at="Fri Mar 17 15:03:37 BRT 2023.705">
+<session-end/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:47.004 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:48896
+<log realm="muxipay-server.server.session/10.131.30.23:48896" at="Fri Mar 17 15:03:47 BRT 2023.4">
+<session-start/>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:47.007 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.30.23:48896
+<log realm="channel/10.131.30.23:48896" at="Fri Mar 17 15:03:47 BRT 2023.7" lifespan="2ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+00000000000000000000000000000000 DEBUG 17/Mar 15:03:47.007 [PooledThread-2-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.30.23:48896
+<log realm="muxipay-server.server.session/10.131.30.23:48896" at="Fri Mar 17 15:03:47 BRT 2023.7">
+<session-end/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:47.702 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:17343
+<log realm="muxipay-server.server.session/10.131.10.71:17343" at="Fri Mar 17 15:03:47 BRT 2023.702">
+<session-start/>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:47.703 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - channel/10.131.10.71:17343
+<log realm="channel/10.131.10.71:17343" at="Fri Mar 17 15:03:47 BRT 2023.703" lifespan="1ms">
+<receive>
+<peer-disconnect/>
+</receive>
+</log>
+58DA472117044AB9BF56DF9E5947AFD4 DEBUG 17/Mar 15:03:47.703 [PooledThread-0-running] b.c.m.m.a.q2.logging.Q2Logger - muxipay-server.server.session/10.131.10.71:17343
+<log realm="muxipay-server.server.session/10.131.10.71:17343" at="Fri Mar 17 15:03:47 BRT 2023.703">
+<session-end/>
+</log>
